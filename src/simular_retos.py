@@ -1,14 +1,14 @@
 import random
 import uuid
+from faker import Faker 
 from datetime import timedelta
 
-import pandas as pd
-from faker import Faker
-
 #1.- Configurar el faker a la region que necesites
-fake = Faker("es_CO")
+
+fake=Faker("es_CO")
 
 #2.- Sembrar semillas para tener coherencia en los datos simulados
+
 Faker.seed(42)
 random.seed(42)
 

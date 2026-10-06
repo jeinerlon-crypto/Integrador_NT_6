@@ -1,6 +1,5 @@
 import random
 import uuid
-
 import pandas as pd
 from faker import Faker
 
@@ -115,3 +114,4 @@ def ensuciar(datos_df):
     datos_df.loc[filas_elegidas, "activo"] = datos_df.loc[
         filas_elegidas, "activo"
     ].map(convertir_booleano_texto)
+    return datos_df
