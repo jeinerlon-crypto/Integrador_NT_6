@@ -1,45 +1,117 @@
 import random
 import uuid
+import pandas as pd
 from faker import Faker
-from datetime import timedelta #Random y faker para simular datos semillas#
 
 #1.- Configurar el faker a la region que necesites
-
-fake=Faker("es_CO")
+fake = Faker("es_CO")
 
 #2.- Sembrar semillas para tener coherencia en los datos simulados
-
 Faker.seed(42)
 random.seed(42)
 
-#4.-Identifico los datos que sean un selector
+#3.- Identifico los datos que sean un selector
+ROLES = ["ADMIN", "EMPRESA", "PARTICIPANTES"]
 
-ESTADOS = ['ABIERTO', 'EN PROCESO', 'CERRADO', 'EVALUACION']
-IDS_EMPRESA = [str(uuid.uuid4()) for _ in range(5)]
-IDS_CATEGORIA = [str(uuid.uuid4()) for _ in range(5)]
-IDS_PRIORIDAD = [str(uuid.uuid4()) for _ in range(3)]
+#4.- Defino mi DATASET(Definir con cuantas filas se van a utilizar)
+FILAS = 400
 
-#5.- Defino mi DATASET(Definir con cuantas filas se van a utilizar)
-FILAS=500
-
-#6.-Construyo una funcion para generar los n datos pedidos(LIMPIOS)
-def generar_datos():
-    filas=[]
-    for _ in range (FILAS):
-
-        fecha_inicio = fake.date_between(start_date="-1y", end_date="+3m")
-
+#5.- Construyo una funcion para generar los n datos pedidos (LIMPIOS)
+def generar_datos_limpios(numero_datos=FILAS):
+    filas = []
+    for _ in range(numero_datos):
         filas.append({
-                "id": str(uuid.uuid4()),
-                "nombre":  fake.sentence(nb_words=6).rstrip("."),
-                "descripcion": fake.sentence(nb_words=12),
-                "fecha_inicio": fecha_inicio,
-                "fecha_fin": fecha_inicio + timedelta(days=random.randint(15, 180)),
-                "estado": random.choice(ESTADOS),
-                "id_empresa" :random.choice(IDS_EMPRESA),
-                "id_categoria": random.choice(IDS_CATEGORIA),
-                "id_prioridad": random.choice(IDS_PRIORIDAD)
+            "id": str(uuid.uuid4()),
+            "nombre": fake.name(),
+            "correo": fake.email(),
+            "contrasena_hash": fake.sha256(),
+            "rol": random.choice(ROLES),
+            "activo": random.choice([True, False]),
+            "fecha_registro": fake.date_time_between(
+                start_date="-2y",
+                end_date="now",
+            ),
         })
 
     return filas
 
+
+#### Ensuciar datos####
+
+#1. Crear una funcion para definir porcentajes de error (procesos estocasticos)
+def generar_muestra(datos, porcentaje):
+    return datos.sample(
+        fraccion=porcentaje,
+        random_state=random.randint(1, 999),
+    ).index
+
+
+#2. Crear una funcion para escribir mal un texto
+def escribir_mal_texto(texto):
+    variantes = [texto.lower(), f"{texto.title()} ", texto.capitalize()]
+    return random.choice(variantes)
+
+
+#3. Crear una funcion para convertir booleanos a texto
+def convertir_booleano_texto(valor):
+    if valor:
+        return random.choice(["SI", "1"])
+    else:
+        return random.choice(["NO", "0"])
+
+
+#4.- Funcion para ensuciar los datos
+def ensuciar(datos_df):
+    datos_df = datos_df.copy()
+
+    #nombre: 10% con espacios sobrantes, el 8% con mayusculas
+    filas_elegidas = generar_muestra(datos_df, 0.10)
+    datos_df.loc[filas_elegidas, "nombre"] = (
+        " " + datos_df.loc[filas_elegidas, "nombre"] + " "
+    )
+
+    filas_elegidas = generar_muestra(datos_df, 0.08)
+    datos_df.loc[filas_elegidas, "nombre"] = datos_df.loc[
+        filas_elegidas, "nombre"
+    ].str.upper()
+
+    #correo: 12% en mayusculas, 5% sin el arroba y el 4% en None
+    filas_elegidas = generar_muestra(datos_df, 0.12)
+    datos_df.loc[filas_elegidas, "correo"] = datos_df.loc[
+        filas_elegidas, "correo"
+    ].str.upper()
+
+    filas_elegidas = generar_muestra(datos_df, 0.05)
+    datos_df.loc[filas_elegidas, "correo"] = datos_df.loc[
+        filas_elegidas, "correo"
+    ].str.replace("@", "", regex=False)
+
+    filas_elegidas = generar_muestra(datos_df, 0.04)
+    datos_df.loc[filas_elegidas, "correo"] = None
+
+    #rol: variantes de escritura (admin, ADMIN, Admin)
+    filas_elegidas = generar_muestra(datos_df, 0.07)
+    datos_df.loc[filas_elegidas, "rol"] = datos_df.loc[
+        filas_elegidas, "rol"
+    ].map(escribir_mal_texto)
+
+    #fecha_registro: dos formatos mezclados
+    iso = datos_df["fecha_registro"].dt.strftime(
+        "%Y-%m-%d %H:%M:%S"
+    )
+    latino = datos_df["fecha_registro"].dt.strftime(
+        "%d/%m/%Y %H:%M"
+    )
+    datos_df["fecha_registro"] = iso
+    filas_elegidas = generar_muestra(datos_df, 0.40)
+    datos_df.loc[filas_elegidas, "fecha_registro"] = (
+        latino.loc[filas_elegidas]
+    )
+
+    #activo: en ocasiones llega SI, NO, 1 o 0
+    filas_elegidas = generar_muestra(datos_df, 0.30)
+    datos_df["activo"] = datos_df["activo"].astype(object)
+    datos_df.loc[filas_elegidas, "activo"] = datos_df.loc[
+        filas_elegidas, "activo"
+    ].map(convertir_booleano_texto)
+    return datos_df
