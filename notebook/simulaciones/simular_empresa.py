@@ -1,11 +1,11 @@
 '''
-Organizacion que registra o propone retos. Crea el script `src/simular_empresas.py`. 
-Con la libreria **Faker** genera 300 filas falsas de la tabla `empresas`, con las MISMAS columnas que usa Backend II. 
-Despues **ensucia los datos a proposito**: 
-nulos, duplicados, espacios sobrantes, mayusculas mezcladas y formatos distintos. 
+Organizacion que registra o propone retos. Crea el script `src/simular_empresas.py`.
+Con la libreria **Faker** genera 300 filas falsas de la tabla `empresas`, con las MISMAS columnas que usa Backend II.
+Despues **ensucia los datos a proposito**:
+nulos, duplicados, espacios sobrantes, mayusculas mezcladas y formatos distintos.
 Esos errores son los que vas a arreglar en la etapa de limpieza, asi que tienen que quedar bien puestos.
 
-Usa `Faker("es_CO")` y fija la semilla con `Faker.seed(42)` y `random.seed(42)` 
+Usa `Faker("es_CO")` y fija la semilla con `Faker.seed(42)` y `random.seed(42)`
 para que el resultado sea SIEMPRE el mismo y tu compañero pueda reproducirlo.
 
 '''
@@ -23,20 +23,20 @@ Faker.seed(42)
 random.seed(42)
 
 #3.Identifica los datos que debo simular
-#Se generan 300 filas con estas columnas: 
-# id (texto (UUID)), 
-# nombre (texto), 
-# nit (texto), 
+#Se generan 300 filas con estas columnas:
+# id (texto (UUID)),
+# nombre (texto),
+# nit (texto),
 # sector (texto), (selector)
-# contacto (texto), 
-# correo (texto), 
-# telefono (texto), 
+# contacto (texto),
+# correo (texto),
+# telefono (texto),
 # activa (booleano).
 
 #4. Identifico  los datos o el dato qUe sea un selector
 SECTORES = ["TRANSPORTE", "SERVICIOS", "CONSTRUCCION", "ALIMENTOS"]
 
-#5. Defino mi DATASET 
+#5. Defino mi DATASET
 FILAS = 300
 
 #6. Construyo una funcion para generar los n datos pedidos (limpio)
@@ -133,7 +133,7 @@ def ensuciar(datos_df):
 def generar_empresas(n=300):
     df= pd.DataFrame(generar_datos_limpios(n))
     df=ensuciar(df)
-    return df 
+    return df
 
 #Bloque principal para ejecutar el script
 if __name__ == "__main__":

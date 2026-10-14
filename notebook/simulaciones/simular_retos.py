@@ -1,6 +1,7 @@
 import random
 import uuid
-from faker import Faker 
+import pandas as pd
+from faker import Faker
 from datetime import timedelta
 
 #1.- Configurar el faker a la region que necesites
@@ -79,6 +80,12 @@ def convertir_booleano_texto(valor):
 #4.- Ensuciar los datos para la etapa de limpieza
 def ensuciar(datos_df):
     datos_df = datos_df.copy()
+    datos_df["fecha_inicio"] = pd.to_datetime(
+        datos_df["fecha_inicio"], errors="coerce"
+    )
+    datos_df["fecha_fin"] = pd.to_datetime(
+        datos_df["fecha_fin"], errors="coerce"
+    )
 
     # nombre: 10% con espacios sobrantes y 8% en mayusculas
     filas_elegidas = generar_muestra(datos_df, 0.10)
@@ -127,3 +134,4 @@ def ensuciar(datos_df):
         random_state=random.randint(1, 999),
     ).index
     datos_df.loc[filas_duplicadas] = datos_df.loc[filas_origen].to_numpy()
+    return datos_df
