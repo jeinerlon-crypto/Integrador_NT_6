@@ -69,6 +69,11 @@ def escribir_mal_texto(texto):
     return random.choice(variantes)
 
 def ensuciar(datos_df):
+    datos_df = datos_df.copy()
+    datos_df["fecha_registro"] = pd.to_datetime(
+        datos_df["fecha_registro"], errors="coerce"
+    )
+
     # 1 20% de observacion en None
     filas_elegidas = generar_muestra( datos_df, 0.20)
 
@@ -120,7 +125,6 @@ def ensuciar(datos_df):
     filas_origen = datos_df.drop(index=filas_duplicadas).sample(n=len(filas_duplicadas),random_state=random.randint(1, 999)).index
 
     datos_df.loc[filas_duplicadas] = datos_df.loc[filas_origen].to_numpy()
+    return datos_df
 
-    print(datos_df)
-
-ensuciar(datos_limpios)
+datos_sucios = ensuciar(datos_limpios)
