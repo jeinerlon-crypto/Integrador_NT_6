@@ -1,14 +1,23 @@
-import pandas as pd
+import sys
+from pathlib import Path
 
-from notebook.simulaciones.simular_retos import generar_datos_limpios, ensuciar
-from notebook.exportaciones.exportar_retos import exportar_retos_crudos, exportar_retos_limpios
+RUTA_SRC = Path(__file__).resolve().parent / "src"
+if str(RUTA_SRC) not in sys.path:
+    sys.path.insert(0, str(RUTA_SRC))
 
-print("***********SIMULACION DE RETOS************")
-retos_df = pd.DataFrame(generar_datos_limpios())
-retos_sucios_df = ensuciar(retos_df)
-print(retos_sucios_df)
+from exportar_retos import exportar_retos_sucio
+from simular_retos import generar_retos
 
-print("********EXPORTACION DE RETOS CRUDOS***************")
-rutas_crudas = exportar_retos_crudos(retos_sucios_df)
-for ruta in rutas_crudas:
-    print("Archivo Creado")
+
+def main():
+    """Genera retos de prueba y exporta sus versiones CSV, XLSX y JSON."""
+    retos = generar_retos()
+    rutas = exportar_retos_sucio(retos)
+
+    print(f"Retos generados: {len(retos)} filas, {len(retos.columns)} columnas.")
+    for ruta in rutas:
+        print(f"Archivo creado: {ruta}")
+
+
+if __name__ == "__main__":
+    main()
