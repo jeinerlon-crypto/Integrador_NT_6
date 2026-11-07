@@ -1,0 +1,42 @@
+[
+  {
+    "nombre":"Desarrollo Movil",
+    "count":32
+  },
+  {
+    "nombre":"Gestion Administrativa",
+    "count":28
+  },
+  {
+    "nombre":"Ciberseguridad",
+    "count":25
+  },
+  {
+    "nombre":"Soporte Tecnico",
+    "count":25
+  },
+  {
+    "nombre":"Diseno Ux\/Ui",
+    "count":24
+  },
+  {
+    "nombre":"Inteligencia Artificial",
+    "count":23
+  },
+  {
+    "nombre":"Ciencia De Datos",
+    "count":23
+  },
+  {
+    "nombre":"Infraestructura Y Nube",
+    "count":22
+  },
+  {
+    "nombre":"Desarrollo Web",
+    "count":18
+  },
+  {
+    "nombre":"Marketing Digital",
+    "count":10
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "area_responsable":"INFRAESTRUCTURA",
+    "id":35
+  },
+  {
+    "area_responsable":"TECNOLOGÍA",
+    "id":28
+  },
+  {
+    "area_responsable":"ADMINISTRACIÓN",
+    "id":27
+  },
+  {
+    "area_responsable":"ANALÍTICA",
+    "id":26
+  },
+  {
+    "area_responsable":"DISEÑO",
+    "id":25
+  },
+  {
+    "area_responsable":"MESA DE AYUDA",
+    "id":25
+  },
+  {
+    "area_responsable":"Sin asignar",
+    "id":23
+  },
+  {
+    "area_responsable":"MERCADEO",
+    "id":21
+  },
+  {
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "id":20
+  }
+]

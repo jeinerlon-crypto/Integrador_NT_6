@@ -1,0 +1,240 @@
+[
+  {
+    "id":"a75e5405-9e98-4eb6-9765-120a47a6a89f",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"2a576ea1-686c-454d-b140-884d3e666fd1",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"d78be9ef-a52f-4f1a-b7ff-45a243ed9aaf",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"43b5c949-c1d5-4cd8-8c1d-13ef43066d48",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"fea5c58c-0fa8-4c8e-ad60-a3f26c182f3f",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"f41ef7f2-25ba-4421-afe3-1c42a5287bfa",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"75d289c7-afc2-4fd1-8463-a150e89c8bb6",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"c930675c-a3a7-4086-8a04-5b7e56ae281c",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":15
+  },
+  {
+    "id":"54635c7d-6fa7-44b1-a114-a525c9a5777d",
+    "nombre":"Marketing Digital",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"15990391-9afa-42bb-a081-3ee7be4047b8",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"d45e09c6-7aca-402b-8a6b-a8e6269ffed3",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"5813a79f-3889-4bd2-983b-199e47f40459",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":15
+  },
+  {
+    "id":"dc0c0ced-66f3-4378-b7d6-114285c94c7e",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"cb5f9e94-311a-4963-a077-1727be8a4654",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":15
+  },
+  {
+    "id":"8e20d1b0-d222-48c7-855d-124c550fbf02",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"cee36d89-d312-4891-9863-6c666a5d748a",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":15
+  },
+  {
+    "id":"6b563ae3-c6f9-48b8-9896-ba5d93bfbf36",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MERCADEO",
+    "largo_desc":15
+  },
+  {
+    "id":"1296ea60-8649-4632-98fe-5a43b017e908",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":15
+  },
+  {
+    "id":"89a2c7fa-7e22-4264-adb2-98f74f84839b",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":15
+  },
+  {
+    "id":"f8b1047b-473e-4a28-afb6-604792d8f6e8",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"51ebbba3-c9c3-4a84-99cc-dfa33b4e3717",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MERCADEO",
+    "largo_desc":15
+  },
+  {
+    "id":"0722e025-7a9d-45a2-8d87-aefeab7545c7",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"a7c8cad2-f89c-4182-8f55-4a83573222ff",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"c4783270-9458-4d98-865c-714e97070a58",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"DISEÑO",
+    "largo_desc":15
+  },
+  {
+    "id":"26af7620-9be6-4ac3-b618-2ae699a7b3a3",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"DISEÑO",
+    "largo_desc":15
+  },
+  {
+    "id":"05d24837-0fab-4da6-9183-811957ab0e39",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MERCADEO",
+    "largo_desc":15
+  },
+  {
+    "id":"51d72e0a-fc88-4356-8b8d-db8b1e6bc065",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":15
+  },
+  {
+    "id":"c99646de-00b0-4bfd-9bf9-12289ff061f3",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"dbcc5b46-131a-472b-95a4-667c1d5af507",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"05765635-5c5a-4536-9948-cbc2aceee510",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"DISEÑO",
+    "largo_desc":15
+  },
+  {
+    "id":"c9045e2a-7636-4617-be5a-f4bd65ad445c",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"Sin asignar",
+    "largo_desc":15
+  },
+  {
+    "id":"7f0e5034-ecaa-4b83-9330-47841cd94946",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":15
+  },
+  {
+    "id":"410efd0a-09cd-4e72-9316-982c40cec61f",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":15
+  },
+  {
+    "id":"26037929-773e-402e-9922-abbb26cd693d",
+    "nombre":"Marketing Digital",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  }
+]
