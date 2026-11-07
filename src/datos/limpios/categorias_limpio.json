@@ -1,0 +1,1612 @@
+[
+  {
+    "id":"9c936de7-a05a-4680-a50c-4bdb4d0ea71e",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Provident aperiam illum molestiae impedit dignissimos.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":54
+  },
+  {
+    "id":"a75e5405-9e98-4eb6-9765-120a47a6a89f",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"1af99eff-2d91-4e26-a39e-11a457c69df3",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sed nobis rem quas modi voluptate fugiat mollitia.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":50
+  },
+  {
+    "id":"21aa587d-fdad-45cf-a1c7-fe86bdd55625",
+    "nombre":"Marketing Digital",
+    "descripcion":"Earum natus placeat quia aliquid non libero temporibus.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":55
+  },
+  {
+    "id":"2a576ea1-686c-454d-b140-884d3e666fd1",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"e5cfa088-3603-4e42-8d55-5a788585a34a",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Vel quae maiores commodi assumenda cum ipsum maiores rerum at.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":62
+  },
+  {
+    "id":"ffacd49d-db92-4bc7-a188-f05064b6f718",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Aliquam provident voluptatibus minima non facilis.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":50
+  },
+  {
+    "id":"d78be9ef-a52f-4f1a-b7ff-45a243ed9aaf",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"0d7722b2-a114-4b53-8eb0-e7a8c36fc66a",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Esse recusandae dolorem ad deserunt eveniet sint vitae.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":55
+  },
+  {
+    "id":"05b767f7-90ce-40ec-96db-0e7ab6779f54",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Officia laudantium recusandae at dolore porro esse neque labore.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":64
+  },
+  {
+    "id":"491de6b6-0e0b-4091-a5b2-2c12aff84be8",
+    "nombre":"Marketing Digital",
+    "descripcion":"Totam quidem reiciendis repudiandae quis perspiciatis nisi ratione minima minus.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":80
+  },
+  {
+    "id":"b5e66ca7-9c24-495e-9110-29a723d3e95b",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Laboriosam sint temporibus cum a hic unde quos eligendi.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":56
+  },
+  {
+    "id":"e3970e48-129a-4726-acad-30eeb50d1edb",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"At eos quibusdam cupiditate consequatur molestiae.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":50
+  },
+  {
+    "id":"4c004c4e-036c-46b0-bf8e-9a5dbe33c8de",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Eligendi voluptatibus molestiae laudantium vel sed iusto deserunt.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":66
+  },
+  {
+    "id":"3b4c1cb9-b072-4857-90ac-b7ce9d47d7fc",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Quibusdam explicabo architecto dolores omnis aut neque.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":55
+  },
+  {
+    "id":"5e3d5874-5047-41bb-a07c-dcea46d6ceec",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Porro culpa impedit iure excepturi.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":35
+  },
+  {
+    "id":"52828b69-90b4-45fa-9b0f-c0def693b40c",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Doloremque officia facere veniam adipisci.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":42
+  },
+  {
+    "id":"bce0a911-6569-4096-ac67-56bedf8bc6b1",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Est quaerat quasi similique voluptate consectetur.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":50
+  },
+  {
+    "id":"207d2e91-5bc6-4905-8ac7-f80005d035de",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sint repudiandae a sit iure amet maxime numquam.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":48
+  },
+  {
+    "id":"43b5c949-c1d5-4cd8-8c1d-13ef43066d48",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"92ce7fdb-e264-45ed-912b-33cf35674720",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Ullam nobis laborum beatae facilis voluptates rem dolores dolores necessitatibus.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":81
+  },
+  {
+    "id":"c6a10aa1-a8a4-45c1-9977-73dc4ce33112",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Aliquid recusandae eos fugiat corporis.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":39
+  },
+  {
+    "id":"fea5c58c-0fa8-4c8e-ad60-a3f26c182f3f",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"ebb3ff0d-5993-40ff-b445-e3ad1ff21364",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Beatae inventore eligendi perspiciatis laborum pariatur aliquid hic nobis ab.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":77
+  },
+  {
+    "id":"4a40d9b5-e9cb-4001-98ab-b20f9728eaa2",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Nihil dolorem dolore architecto.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":32
+  },
+  {
+    "id":"ea6531f9-bf42-4e7e-9ea8-fb517565dced",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Molestiae exercitationem mollitia molestiae iste eum deleniti possimus nemo.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":76
+  },
+  {
+    "id":"e3ea9291-88d8-49ea-8a79-048a7de148ae",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Dolorum sed itaque reiciendis pariatur voluptates nisi veniam tempora nostrum.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":78
+  },
+  {
+    "id":"2bcaecd2-40ba-4a08-b01d-2c67866060ad",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Dolores corporis deserunt nobis quis omnis.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":43
+  },
+  {
+    "id":"fc81fc00-78b1-4db0-8dce-a73cadedd48f",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Expedita aliquam sit explicabo voluptatum earum voluptatem veniam asperiores.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":77
+  },
+  {
+    "id":"b6832f9b-c2c3-483f-88b2-27ff598448ea",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Perspiciatis veniam fuga quis nemo minus.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":41
+  },
+  {
+    "id":"f41ef7f2-25ba-4421-afe3-1c42a5287bfa",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"402faf13-b952-4377-b717-47c21eee170d",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Voluptates blanditiis tempore deleniti aliquid ipsa maxime rem porro velit.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":75
+  },
+  {
+    "id":"09602ec6-3806-4aad-8150-b16242fdc0bd",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Veritatis occaecati iure natus neque perspiciatis.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":50
+  },
+  {
+    "id":"715ed90d-6e7a-44c4-b007-0f8a3fa291fa",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Dolorem doloremque aut ex iusto perspiciatis consequuntur vitae voluptate culpa.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":80
+  },
+  {
+    "id":"277bba6f-95ea-4502-8eec-a7c3956aaf99",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Optio soluta nulla nisi culpa.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":30
+  },
+  {
+    "id":"0e46ed18-6e9e-43b5-961b-5df5e8ac117e",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Ipsum facere nisi iste dolore nostrum quas tenetur omnis.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":57
+  },
+  {
+    "id":"8ea08942-07d8-4774-847f-2a5e747f08b4",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Culpa praesentium fugit aliquam iusto dicta ullam.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":50
+  },
+  {
+    "id":"846682ba-7923-4ab4-9d89-ca922db19d11",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Facere nemo iusto voluptatem consectetur.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":41
+  },
+  {
+    "id":"7d4aaa9f-9d2d-4a56-8460-7ff81ed5a34e",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Dolorum deleniti ipsum in eius.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":31
+  },
+  {
+    "id":"b3ccc970-6388-4140-8271-7bc7e520252b",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Incidunt tenetur ipsum culpa similique ipsum quibusdam saepe eius.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":66
+  },
+  {
+    "id":"48f52080-9008-4354-a0ac-679a935e370f",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Veniam assumenda dolorum nam impedit nisi nulla quod fugit tenetur.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":67
+  },
+  {
+    "id":"935b2190-0a50-43d4-b339-82c195781761",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Possimus officiis sequi sequi similique fugit et quaerat quis sit alias.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":72
+  },
+  {
+    "id":"5c34555a-b795-4cc0-b9ae-2288dc19270a",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Consequuntur enim rerum possimus consequuntur provident.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":56
+  },
+  {
+    "id":"656d8217-a2cf-4834-9b98-9ea5514a2fa3",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Perferendis iusto nulla velit eveniet.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":38
+  },
+  {
+    "id":"06813ab7-329f-4400-a334-cd7b9fb0fe8e",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Optio laborum deleniti dolor animi quasi aperiam et amet labore.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":64
+  },
+  {
+    "id":"bd520739-0004-4e63-ae67-30a5267d2635",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Nulla vel eius porro dolor ipsam doloremque facilis voluptatem.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":63
+  },
+  {
+    "id":"f7bbff21-c84b-4afc-8bf6-6a6abd61ad54",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Iure rem quam id repellendus quia neque aliquid exercitationem aperiam.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":71
+  },
+  {
+    "id":"16751fe5-2a86-43d1-bf9e-ac4424a7aabb",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Itaque vitae aperiam laboriosam illo placeat laudantium.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":56
+  },
+  {
+    "id":"d0ba5c32-4e3d-49a5-a5fa-d942e4bdeb13",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Quod dolorem reiciendis dolor deleniti dolorum quidem.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":54
+  },
+  {
+    "id":"88fd135a-dd2d-4e99-844d-9533b39b1892",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Ab repellendus error optio vel consequatur blanditiis autem mollitia earum.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":75
+  },
+  {
+    "id":"75d289c7-afc2-4fd1-8463-a150e89c8bb6",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"16487e37-d05d-4097-8df8-9a7ba7ab5e98",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Odio laudantium at expedita ex pariatur similique ex possimus.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":62
+  },
+  {
+    "id":"e2f7626c-bf87-4900-8a6e-68b28197e859",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Rem recusandae natus aliquam minus optio architecto officia accusamus in.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":73
+  },
+  {
+    "id":"bd621026-d2d4-45e9-885a-3f3b0c5ac1dc",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Expedita nam beatae eius dolorem.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":33
+  },
+  {
+    "id":"4e078e5c-6cdd-4e48-b954-2faf86ce865e",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Soluta et omnis id totam itaque eaque doloribus natus ea.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":57
+  },
+  {
+    "id":"c930675c-a3a7-4086-8a04-5b7e56ae281c",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":15
+  },
+  {
+    "id":"04e35d4d-555d-4d7d-a44a-0716e5aed081",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Quo iure repudiandae nihil eum doloribus vel eius iste quibusdam.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":65
+  },
+  {
+    "id":"bfc71437-6a28-4de3-a51c-b66d67164540",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Quisquam voluptatem officia in voluptatibus fugit.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":50
+  },
+  {
+    "id":"b9d350bb-58a9-4342-9761-c31d9fbae2d4",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Totam exercitationem explicabo quo quam officia possimus nostrum deleniti.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":74
+  },
+  {
+    "id":"3ce73d41-c4c6-4d18-948f-530a4a8ed537",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Et expedita ut recusandae earum commodi perspiciatis fugit voluptatem.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":70
+  },
+  {
+    "id":"d44b1948-2b51-431d-9274-60f21dd6b8e4",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Magni est iste animi rerum asperiores sint sequi.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":49
+  },
+  {
+    "id":"132b28a5-15b9-4f2f-b55b-8089798e274a",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Ratione delectus quibusdam sit enim alias error nobis.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":54
+  },
+  {
+    "id":"f8667ea9-1e7f-4a6d-bb17-ba8a04f126cd",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Earum optio laborum ipsam earum.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":32
+  },
+  {
+    "id":"e697a0c8-adf6-46cc-ac7d-41482aa0d457",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Deleniti qui eius nihil quis nisi.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":34
+  },
+  {
+    "id":"c4d69faa-7242-4b91-8b21-fe172bc06194",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Corporis perspiciatis adipisci veniam beatae accusantium et corrupti.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":69
+  },
+  {
+    "id":"1177e0af-6e9d-46bd-a2e1-5b023ccc0ec3",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Facilis reiciendis eaque assumenda incidunt inventore voluptatum debitis eos.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":77
+  },
+  {
+    "id":"46f32fb6-905a-4162-abca-b106751c3437",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Voluptas nostrum quibusdam quos doloremque dolores vitae.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":57
+  },
+  {
+    "id":"73eb16fd-59cf-4532-9f7c-cc8ac5aba355",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Vel architecto ut adipisci illum.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":33
+  },
+  {
+    "id":"b796eb9f-f1f0-43cb-abc5-d1e08c8bdcb8",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Maiores autem dolores commodi ipsum consequuntur amet veniam.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":61
+  },
+  {
+    "id":"87a24839-202e-4b5e-b083-12ec4afa3489",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Pariatur quae mollitia enim error culpa quae praesentium.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":57
+  },
+  {
+    "id":"249a97e0-2d84-4241-abf6-1c31bbca5757",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Omnis quam non sapiente natus repudiandae.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":42
+  },
+  {
+    "id":"6a43e8f6-fb18-4d3a-b676-e53ad321cdca",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Quae in beatae accusantium eveniet reiciendis nulla rerum.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":58
+  },
+  {
+    "id":"b1ef298d-f857-4ceb-8d03-2c43279e2dc4",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Repellat aperiam quod itaque eos aliquam.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":41
+  },
+  {
+    "id":"d06c955d-01e7-4613-85bc-ca05f4a74eb9",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Ea doloremque quidem veritatis.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":31
+  },
+  {
+    "id":"a9f1f438-be05-414f-a627-84303f00143b",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Error aliquid in recusandae itaque beatae temporibus.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":53
+  },
+  {
+    "id":"b9fc6b0c-93f8-4860-b025-225b22f8758e",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Facilis ratione accusamus modi iste perferendis perferendis nesciunt reprehenderit velit.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":89
+  },
+  {
+    "id":"373dc42e-d492-48bc-8077-de2f60464771",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Consequuntur ut et hic nulla sapiente nisi magni magni laudantium.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":66
+  },
+  {
+    "id":"988625f3-ee09-476f-a25e-16c0c90df509",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Totam cupiditate sunt cupiditate ullam.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":39
+  },
+  {
+    "id":"05796cd9-4d71-4657-a774-2d14308fcc3c",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Qui ex ut rem sint repellat.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":28
+  },
+  {
+    "id":"f328a408-99a7-4b6a-8b87-5fd9a8ec881e",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Maxime natus voluptatum laboriosam fugiat vero.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":47
+  },
+  {
+    "id":"54635c7d-6fa7-44b1-a114-a525c9a5777d",
+    "nombre":"Marketing Digital",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"870fadce-8502-42a0-93f4-0f81dc43016f",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Aliquam aspernatur omnis natus et ea pariatur et eaque consectetur.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":67
+  },
+  {
+    "id":"4d781cbc-722a-4435-9469-76bbd97381d0",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Voluptates error vitae porro itaque error voluptatum sequi.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":59
+  },
+  {
+    "id":"3e0e8c86-64b5-4b54-8968-ed488262b8ea",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Rerum eos facere esse provident.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":32
+  },
+  {
+    "id":"5ed27e46-52ca-4a50-846f-39cca16a21a2",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Culpa vero aspernatur delectus nisi perferendis doloremque blanditiis tempora doloribus.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":88
+  },
+  {
+    "id":"97a642df-9aa2-4652-8e2b-8435f9df7182",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Minus totam rerum ducimus repudiandae laboriosam rem quia.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":58
+  },
+  {
+    "id":"21be07f1-6c84-488d-afca-a210a5860d41",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Libero quaerat magni earum rerum voluptatem.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":44
+  },
+  {
+    "id":"57287f54-16c8-4118-90c5-827e5f38700b",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Cum fugit voluptatibus odit nam placeat sapiente.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":49
+  },
+  {
+    "id":"46c4e9b5-7f4c-4960-a957-f362a245bfda",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Ipsam perspiciatis quaerat laborum tempore ipsum animi consequatur impedit natus.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":81
+  },
+  {
+    "id":"715ae389-f403-4314-a159-be10c08d83bb",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Modi odio nemo quaerat eos a explicabo necessitatibus deleniti pariatur.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":72
+  },
+  {
+    "id":"15990391-9afa-42bb-a081-3ee7be4047b8",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"92d2197a-d902-41d9-986b-6bcee680191f",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Odit delectus vitae inventore tenetur animi commodi corrupti cum eum.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":69
+  },
+  {
+    "id":"ffabdbc3-5c3d-4fad-b25b-335790e63de2",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Libero alias magnam nihil sit soluta.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":37
+  },
+  {
+    "id":"9cd98736-3f5b-4ba6-b63e-0f76548288ca",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Ipsa itaque aspernatur est inventore.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":37
+  },
+  {
+    "id":"abfe6f02-d247-455f-8681-929decfbec4f",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Aspernatur optio esse nobis incidunt.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":37
+  },
+  {
+    "id":"d3363209-8ae2-4437-85ce-8fe9551382a1",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Reprehenderit asperiores voluptas odit ipsum perspiciatis exercitationem soluta.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":80
+  },
+  {
+    "id":"d45e09c6-7aca-402b-8a6b-a8e6269ffed3",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"17e36610-1776-40c2-977b-40765fb9b3de",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Iste tempore ipsum assumenda placeat.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":37
+  },
+  {
+    "id":"2b5405a5-e55b-4413-b232-eabdc5797057",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Aut accusamus eligendi laboriosam exercitationem vitae dolorum similique beatae.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":80
+  },
+  {
+    "id":"fa9d4723-28cb-4c16-b746-d9821450c0ff",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Consectetur quae assumenda nam officia eveniet consectetur praesentium.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":71
+  },
+  {
+    "id":"42a2b24c-a6df-4bed-978f-6d3065fff5b0",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Non eum ipsam perferendis maiores recusandae vero quasi omnis eligendi.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":71
+  },
+  {
+    "id":"030c7713-0f21-4264-bd3b-1984a06116b9",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Magni pariatur eveniet possimus mollitia deleniti pariatur.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":59
+  },
+  {
+    "id":"c36c2334-81ef-4405-b2ed-692e3e515541",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Eius error velit voluptatem quo provident porro.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":48
+  },
+  {
+    "id":"eca1ebd0-8ad2-4054-996e-4e37f3f53926",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Enim ab autem consequatur eaque facilis illo aliquid amet.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":58
+  },
+  {
+    "id":"5813a79f-3889-4bd2-983b-199e47f40459",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":15
+  },
+  {
+    "id":"dc0c0ced-66f3-4378-b7d6-114285c94c7e",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"a720e110-0d0f-4ce9-9cc6-a69247a31fb4",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Reiciendis quae est accusamus illum dolore sapiente beatae veniam officia.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":74
+  },
+  {
+    "id":"9727fb3e-d3d4-4227-a0a6-5c08c64e9626",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Ipsum repellat saepe voluptatem assumenda.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":42
+  },
+  {
+    "id":"cb5f9e94-311a-4963-a077-1727be8a4654",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":15
+  },
+  {
+    "id":"8e20d1b0-d222-48c7-855d-124c550fbf02",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"d5638c70-6853-4108-87a7-5125794d0a1c",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Repellendus reiciendis consequuntur dolorum odit soluta.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":56
+  },
+  {
+    "id":"3b68a53c-a5ad-47d4-a26e-7b470efd7217",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Fugiat adipisci ut saepe officiis.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":34
+  },
+  {
+    "id":"48782ed5-2af7-4fe2-8b04-cb875c40ba17",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Consequatur ex labore itaque non.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":33
+  },
+  {
+    "id":"926bc4ab-9a74-4584-b90d-775fdc11a104",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Veniam quisquam quisquam enim blanditiis libero inventore.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":58
+  },
+  {
+    "id":"a0b78ab5-379c-4696-9869-9add4daf9a03",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Eveniet quis fugit quibusdam rerum dolorum aspernatur accusantium molestiae.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":76
+  },
+  {
+    "id":"90bd5933-0ec8-45de-b9d3-476d814cca64",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Perferendis voluptates atque illo excepturi.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":44
+  },
+  {
+    "id":"a51704bb-812d-403d-b7a2-14231f33c0b4",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Perspiciatis eligendi quam omnis temporibus sit ex nesciunt consequuntur expedita.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":82
+  },
+  {
+    "id":"af5524e0-db67-4d85-9849-a4b8fafc656c",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Laborum harum pariatur reiciendis quam saepe ullam voluptatem modi.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":67
+  },
+  {
+    "id":"176ab805-d5f3-41eb-871c-c1614967a4d2",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Numquam nostrum atque odit nihil neque.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":39
+  },
+  {
+    "id":"391fa12a-ab7d-4981-9b5a-f03f90ab8758",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Quod asperiores odio minus deserunt quod expedita vero.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":55
+  },
+  {
+    "id":"8ec6167d-8efe-4a76-97c6-f61768e1cab1",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Dolores nemo nemo voluptatibus eos.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":35
+  },
+  {
+    "id":"cee36d89-d312-4891-9863-6c666a5d748a",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":15
+  },
+  {
+    "id":"ccc2fa58-855c-4fd8-b276-770a43ada49b",
+    "nombre":"Ciberseguridad",
+    "descripcion":"At sapiente doloribus nihil minima id est excepturi.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":52
+  },
+  {
+    "id":"6b563ae3-c6f9-48b8-9896-ba5d93bfbf36",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MERCADEO",
+    "largo_desc":15
+  },
+  {
+    "id":"73961f83-6df8-4021-9605-a0f5adeb6a2c",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Nulla similique neque provident aliquid dolorem enim aspernatur doloremque aut eius.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":84
+  },
+  {
+    "id":"2166272b-aa60-4790-aafd-357cb66f64a7",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Porro labore at assumenda inventore quia.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":41
+  },
+  {
+    "id":"6a82cc89-fd20-4674-9319-ee0bf9dc3081",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Ad eius dolore qui perspiciatis.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":32
+  },
+  {
+    "id":"249c5f68-39df-4633-b2b5-91bff3c9a92b",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Animi architecto adipisci ex maiores eius laborum molestiae quam sunt nemo.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":75
+  },
+  {
+    "id":"72d837db-fc95-4c6b-ae40-7427a685583d",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Expedita magni perspiciatis sapiente ex adipisci soluta.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":56
+  },
+  {
+    "id":"014e2c20-937e-4527-807c-91d046854f5c",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Illum placeat debitis cupiditate non fugit placeat libero nesciunt doloremque.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":78
+  },
+  {
+    "id":"b2fc4a46-111d-486d-8e42-0d840c95028c",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Quis provident aut cumque error.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":32
+  },
+  {
+    "id":"1296ea60-8649-4632-98fe-5a43b017e908",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":15
+  },
+  {
+    "id":"c67ec88a-f6f0-432e-8dcb-4576c01b80ac",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Temporibus deserunt perspiciatis necessitatibus ipsam quo quod magnam in.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":73
+  },
+  {
+    "id":"fef8f8ea-aac0-40a1-9e9e-b7123717ade7",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Distinctio exercitationem porro sequi magnam dolorum tenetur amet odio repudiandae.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":83
+  },
+  {
+    "id":"89a2c7fa-7e22-4264-adb2-98f74f84839b",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":15
+  },
+  {
+    "id":"538dc792-4fbb-426b-881c-473ee5b0d969",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Quidem deleniti explicabo quos sint.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":36
+  },
+  {
+    "id":"1bc0de10-0437-4462-b529-d96ca2c7d743",
+    "nombre":"Marketing Digital",
+    "descripcion":"Exercitationem velit tempora sapiente dolorum odio mollitia.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":60
+  },
+  {
+    "id":"4cd76122-ba37-481a-988a-fc03e1f1d068",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Nostrum fugiat adipisci sed delectus distinctio reiciendis excepturi sunt praesentium.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":86
+  },
+  {
+    "id":"c28df651-5815-4dd7-b9d4-c48850f0969d",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Consequatur explicabo excepturi odit rerum placeat voluptatem laboriosam.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":73
+  },
+  {
+    "id":"fd146bda-c69e-4739-b3c5-06dbb967f725",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Illum quod ullam sit quasi aperiam.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":35
+  },
+  {
+    "id":"2b0e70db-3e20-4ffa-87b3-81dc484eb042",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Ratione numquam optio ut incidunt molestias officia.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":52
+  },
+  {
+    "id":"f8b1047b-473e-4a28-afb6-604792d8f6e8",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"e1d061c9-efde-4cbc-8dfa-6a03fd26ff81",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Aspernatur veniam quo eaque distinctio.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":39
+  },
+  {
+    "id":"a2e8b611-ce83-4d2e-915e-0cc569c2e938",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Doloremque placeat enim dolorem at.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":35
+  },
+  {
+    "id":"51ebbba3-c9c3-4a84-99cc-dfa33b4e3717",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MERCADEO",
+    "largo_desc":15
+  },
+  {
+    "id":"6e499088-9276-46da-9478-c05a3327ef67",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Totam sit error odit non corrupti quis molestiae quod.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":54
+  },
+  {
+    "id":"226da480-0940-43dc-82e8-8fe1962868cd",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Ipsum nisi eos doloremque provident praesentium iste porro.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":59
+  },
+  {
+    "id":"c62f5c8b-4189-4e54-95a3-6f2d2fa38be7",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Incidunt nesciunt facere voluptatum consequuntur laudantium quidem similique corrupti cum.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":90
+  },
+  {
+    "id":"175a32b0-b875-4095-a809-0dce901c1436",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Assumenda in adipisci dolor magnam ad dicta officiis molestias dolore.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":70
+  },
+  {
+    "id":"16174205-32ef-4e78-82f8-551b374e8b3c",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Earum reiciendis ipsa id ipsam vero excepturi deleniti.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":55
+  },
+  {
+    "id":"0722e025-7a9d-45a2-8d87-aefeab7545c7",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"d07537b1-4fda-467b-ac21-76dc98c95366",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Voluptas unde sed cumque.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":25
+  },
+  {
+    "id":"a7c8cad2-f89c-4182-8f55-4a83573222ff",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"c4783270-9458-4d98-865c-714e97070a58",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"DISEÑO",
+    "largo_desc":15
+  },
+  {
+    "id":"6768303e-7cae-4b6a-a15b-ca6394423ce3",
+    "nombre":"Marketing Digital",
+    "descripcion":"Dolore aperiam reprehenderit tenetur error illum consequuntur veniam esse laudantium atque.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":91
+  },
+  {
+    "id":"46faf461-54b1-4f37-a0a9-9c063b109b45",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Quos rem deleniti atque inventore incidunt iure.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":48
+  },
+  {
+    "id":"0456e500-ee08-4f16-bc65-38c926114de6",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Itaque corporis deleniti nobis quia consequatur architecto.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":59
+  },
+  {
+    "id":"05a3b52d-dae3-44f4-bd52-1e5f6f3472bc",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Excepturi ratione eaque a quas saepe neque optio sint.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":54
+  },
+  {
+    "id":"09b1f4d3-5b7d-4626-8c67-6bb28bb329d3",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Repellendus suscipit ut impedit id fugiat harum.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":48
+  },
+  {
+    "id":"4c93cefe-1e12-4b8c-8188-cfc65881a6a8",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Harum quo perspiciatis amet occaecati ex ex.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":44
+  },
+  {
+    "id":"698f369b-ec81-4a11-b454-67fa4be4adb0",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Assumenda laborum architecto quis quisquam.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":43
+  },
+  {
+    "id":"f469a2a7-6575-4481-a952-4e375f90cb93",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Facilis architecto optio ex et sed.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":35
+  },
+  {
+    "id":"c4149fd5-8495-46e2-85ec-fb0d71963a04",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Architecto qui voluptas at minus fugiat iste culpa.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":51
+  },
+  {
+    "id":"26af7620-9be6-4ac3-b618-2ae699a7b3a3",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"DISEÑO",
+    "largo_desc":15
+  },
+  {
+    "id":"1c53483e-fea2-42f3-8dba-18d2709290ae",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Harum quo veniam accusantium sunt nemo labore velit error.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":58
+  },
+  {
+    "id":"ac94fac4-8741-496c-aea3-6b75e2256c1e",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Rerum quo repellat cumque ipsa illum.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":37
+  },
+  {
+    "id":"1a6bec53-9080-47ff-840d-7d1a2ffc11af",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Suscipit et est id repellendus labore.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":38
+  },
+  {
+    "id":"d33821f5-3616-403c-b75a-f7cacaaa553d",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Fuga voluptates nam facilis corporis nobis illo aliquam.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":56
+  },
+  {
+    "id":"06c8412a-3f7a-42c8-8dbd-df60c4a8e748",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Debitis vitae eaque autem ipsa quas et.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":39
+  },
+  {
+    "id":"c7e52f89-b788-4091-8366-1078641ce4d0",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Repudiandae architecto cumque esse quibusdam necessitatibus enim.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":65
+  },
+  {
+    "id":"eaba15e7-d5c6-42f2-bf78-651008de5e85",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Illo magnam tempora provident est blanditiis.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":45
+  },
+  {
+    "id":"031dfdf3-2b12-47d8-a314-29003d709789",
+    "nombre":"Marketing Digital",
+    "descripcion":"Earum voluptate mollitia possimus commodi sit.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":46
+  },
+  {
+    "id":"99c82ef9-0e75-4843-85e9-1c5ef4b5b04d",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Nisi harum nisi iusto dolorum mollitia velit perspiciatis beatae.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":65
+  },
+  {
+    "id":"68e512da-9ea7-4512-b93d-a09fdc89baac",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Veritatis rem enim enim quae expedita ipsam ducimus.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":52
+  },
+  {
+    "id":"83618ff8-a900-4a06-b6b8-48940ad883d6",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Occaecati temporibus officia est ipsam neque.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":45
+  },
+  {
+    "id":"15edff5a-263f-4864-9829-2afacfc38749",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Odit nisi accusantium ratione doloribus commodi.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":48
+  },
+  {
+    "id":"77b25517-15a0-4151-9d45-6f5cc4f9fb30",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Quibusdam quisquam excepturi eos culpa a quam quaerat voluptas quis.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":68
+  },
+  {
+    "id":"902b2ad3-55e7-44a5-b4b1-c25091852a3a",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Recusandae magni commodi dicta consequuntur ratione.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":52
+  },
+  {
+    "id":"ffc9c316-5bb5-43e3-922e-ceb6ede72325",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Distinctio eaque ut sunt sunt fuga culpa rerum provident nostrum.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":65
+  },
+  {
+    "id":"7f81ce88-d7e0-4981-931a-4847b4f4a0ce",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sequi illum et labore totam fugit voluptates.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":45
+  },
+  {
+    "id":"094f3a88-ab79-4e37-bd71-1621122896a3",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Dolorem adipisci et eaque distinctio.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":37
+  },
+  {
+    "id":"7a4f3aef-1749-4cca-84f4-8ed64e859de9",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Excepturi repellendus quibusdam perferendis dolore dicta ad doloribus labore sed asperiores.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":92
+  },
+  {
+    "id":"7308c08d-ad75-48c1-b41f-40a1b21b8961",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Rem iusto asperiores quidem dolorem perspiciatis perferendis id.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":64
+  },
+  {
+    "id":"11e9eeb9-837e-4123-8153-49d5d35fdaa3",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Et eius vero ad delectus maxime totam blanditiis.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":49
+  },
+  {
+    "id":"05d24837-0fab-4da6-9183-811957ab0e39",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MERCADEO",
+    "largo_desc":15
+  },
+  {
+    "id":"1d309897-8855-43b8-a190-891a575f5ea2",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Laborum dolores ipsam quae doloremque excepturi tempora aspernatur corrupti fugit.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":82
+  },
+  {
+    "id":"51d72e0a-fc88-4356-8b8d-db8b1e6bc065",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":15
+  },
+  {
+    "id":"a899c6a3-30b6-4cfa-8532-b64d630be811",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Aliquam inventore eum dolorum at vitae saepe nemo veritatis voluptatum.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":71
+  },
+  {
+    "id":"e9069cd0-6505-40f8-a2c4-d72f53cef5f6",
+    "nombre":"Marketing Digital",
+    "descripcion":"Officia voluptates eum voluptas et ipsam iusto occaecati recusandae nihil.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":74
+  },
+  {
+    "id":"c99646de-00b0-4bfd-9bf9-12289ff061f3",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"180a7ec1-b5fa-4df2-8dfc-44f1e0199db6",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Vitae quaerat quod cum est neque ut nemo tenetur fugiat.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":56
+  },
+  {
+    "id":"3cecaeaa-0350-436f-875f-f7eeceb1aa99",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Nesciunt nemo ea facere dolores pariatur iure.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":46
+  },
+  {
+    "id":"20631ce3-66da-40ea-b58e-f72acb23a35d",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Asperiores porro occaecati aut quo sed.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":39
+  },
+  {
+    "id":"b2ca06fc-39de-4302-8e57-677830bfc2ff",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Ratione dolores eum cupiditate amet qui minima quia.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":52
+  },
+  {
+    "id":"55c5a3a9-f006-4a92-9978-95ee0b6c65f0",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Nemo quis cupiditate maxime ipsam eius voluptatum.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":50
+  },
+  {
+    "id":"13e24488-6c9f-4ba8-ab05-ec8e12e30910",
+    "nombre":"Marketing Digital",
+    "descripcion":"Nisi fugit neque veritatis qui aliquam tenetur nemo deleniti non magnam.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":72
+  },
+  {
+    "id":"d60fe73a-5784-433f-b1a3-03b2ee9d2c32",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Sint quam voluptas nobis expedita neque distinctio omnis dolore.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":64
+  },
+  {
+    "id":"38353bca-3422-4e35-b11d-881c51defec0",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Quod dolor rem possimus iure.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":29
+  },
+  {
+    "id":"8a3f5233-c543-4a9b-8562-a77677b821f2",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Repellat nam nesciunt natus eveniet commodi explicabo pariatur.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":63
+  },
+  {
+    "id":"d414728c-49f8-4603-b0f0-5e19e5a990da",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Dolore architecto vero aliquam adipisci dolorum saepe numquam.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":62
+  },
+  {
+    "id":"4fd49639-92fd-4391-818f-9d041b5afa79",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Error repellendus fuga perferendis voluptatem nesciunt reiciendis quas porro ad.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":80
+  },
+  {
+    "id":"dbcc5b46-131a-472b-95a4-667c1d5af507",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":15
+  },
+  {
+    "id":"f28c2cba-7c98-4f5d-aa7d-4a8156690fe9",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Atque perferendis magni accusantium est veritatis exercitationem quisquam deleniti voluptatum.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":94
+  },
+  {
+    "id":"d50ab1fd-9410-4966-8ad7-e4d11c3343fe",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Itaque ut vel ab numquam natus aut.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":35
+  },
+  {
+    "id":"bc9cda6b-d7da-4804-8e5f-875bb72aaaa0",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Aut tenetur accusamus corporis sit voluptas asperiores quos eaque.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":66
+  },
+  {
+    "id":"285326f3-ec68-4e26-8988-89cc6eaf8a94",
+    "nombre":"Marketing Digital",
+    "descripcion":"Eos magni inventore recusandae beatae omnis soluta mollitia sint inventore.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":75
+  },
+  {
+    "id":"05765635-5c5a-4536-9948-cbc2aceee510",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"DISEÑO",
+    "largo_desc":15
+  },
+  {
+    "id":"68a34da4-9dda-4128-afdd-be699c6dd570",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Voluptate architecto minima magni voluptates mollitia hic iusto odio voluptatem.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":80
+  },
+  {
+    "id":"d98bdd29-f1c0-463c-bfd9-f8f38cb3b49d",
+    "nombre":"Desarrollo Web",
+    "descripcion":"Impedit odit libero occaecati enim vero laboriosam rem placeat error.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":69
+  },
+  {
+    "id":"915c69d6-a079-4e76-b4f6-58c60118becf",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Ex quasi officia quaerat accusamus.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":35
+  },
+  {
+    "id":"849a87a7-0001-4cd3-9486-5074b66cee67",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Labore dicta vitae eum officia tenetur at nemo modi.",
+    "area_responsable":"MERCADEO",
+    "largo_desc":52
+  },
+  {
+    "id":"32ef03c2-dc59-4c3d-8347-6ddedaedb202",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Nihil optio assumenda inventore sint delectus ea eveniet.",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":57
+  },
+  {
+    "id":"7dd46b18-1917-4e1f-af29-e2fdbce0d7d6",
+    "nombre":"Ciberseguridad",
+    "descripcion":"Nostrum temporibus accusantium dolor corrupti velit non incidunt quod.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":70
+  },
+  {
+    "id":"5cb54ffe-5842-4d20-9708-7ec17184cd95",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Optio veniam cumque minus non vitae.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":36
+  },
+  {
+    "id":"78cb6f01-32d6-4339-8bc1-d7c88e6acf1a",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Placeat pariatur explicabo nam soluta voluptate.",
+    "area_responsable":"INFRAESTRUCTURA",
+    "largo_desc":48
+  },
+  {
+    "id":"c9045e2a-7636-4617-be5a-f4bd65ad445c",
+    "nombre":"Desarrollo Movil",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"Sin asignar",
+    "largo_desc":15
+  },
+  {
+    "id":"7f0e5034-ecaa-4b83-9330-47841cd94946",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":15
+  },
+  {
+    "id":"c1fbd29d-6e7e-46fd-88cc-fa8f472895ef",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Id atque voluptatem labore vel.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":31
+  },
+  {
+    "id":"e820c5fb-1e69-40c6-bc0e-e23e75684127",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Unde dolores cum reiciendis debitis impedit.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":44
+  },
+  {
+    "id":"410efd0a-09cd-4e72-9316-982c40cec61f",
+    "nombre":"Ciencia De Datos",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"ADMINISTRACIÓN",
+    "largo_desc":15
+  },
+  {
+    "id":"856ab89e-4ec4-4d21-aeba-f1bd992738e9",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Numquam quis dignissimos molestias unde ipsa praesentium commodi voluptate.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":75
+  },
+  {
+    "id":"8d3f8d2c-7040-4742-96bc-8bc0109bfdbb",
+    "nombre":"Diseno Ux\/Ui",
+    "descripcion":"Impedit repudiandae id quas est est ducimus.",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":44
+  },
+  {
+    "id":"6ce269e2-89e8-424a-a6a0-59137368da24",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Nam maxime deleniti dolores illo nam dolores.",
+    "area_responsable":"ANALÍTICA",
+    "largo_desc":45
+  },
+  {
+    "id":"09baea50-2f2f-4221-a10d-1333fc7783d1",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Suscipit nemo quaerat fugit id corporis porro tempora similique.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":64
+  },
+  {
+    "id":"f101a998-48f8-4a2d-8874-c38ab0f3c7ca",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Ratione necessitatibus quidem cupiditate sequi tempore repudiandae maiores.",
+    "area_responsable":"DISEÑO",
+    "largo_desc":75
+  },
+  {
+    "id":"4b3df1fc-ba34-4fbd-8d47-3f6318d1a5df",
+    "nombre":"Gestion Administrativa",
+    "descripcion":"Aspernatur sapiente aut quo rerum sunt.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":39
+  },
+  {
+    "id":"6c9ad5d4-3af7-440b-b181-06b73fe78ea2",
+    "nombre":"Infraestructura Y Nube",
+    "descripcion":"Facilis reiciendis perspiciatis veritatis consequuntur non quos alias.",
+    "area_responsable":"TECNOLOGÍA",
+    "largo_desc":70
+  },
+  {
+    "id":"26037929-773e-402e-9922-abbb26cd693d",
+    "nombre":"Marketing Digital",
+    "descripcion":"Sin descripcion",
+    "area_responsable":"MESA DE AYUDA",
+    "largo_desc":15
+  },
+  {
+    "id":"4290889b-92c4-46ce-aedb-db6dfec05ae3",
+    "nombre":"Inteligencia Artificial",
+    "descripcion":"Provident natus beatae velit porro corrupti alias fuga mollitia inventore.",
+    "area_responsable":"Sin asignar",
+    "largo_desc":74
+  },
+  {
+    "id":"c7750d04-d643-48a3-9d6b-b02cb5d01ca3",
+    "nombre":"Soporte Tecnico",
+    "descripcion":"Provident dolor nostrum possimus voluptatum dicta consequatur.",
+    "area_responsable":"SEGURIDAD INFORMÁTICA",
+    "largo_desc":62
+  }
+]
