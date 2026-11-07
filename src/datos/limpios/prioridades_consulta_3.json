@@ -1,0 +1,22 @@
+[
+  {
+    "nombre":"Baja",
+    "count":49
+  },
+  {
+    "nombre":"Muy baja",
+    "count":36
+  },
+  {
+    "nombre":"Alta",
+    "count":34
+  },
+  {
+    "nombre":"Muy alta",
+    "count":33
+  },
+  {
+    "nombre":"Media",
+    "count":32
+  }
+]
