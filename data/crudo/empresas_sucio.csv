@@ -1,0 +1,301 @@
+id,nombre,nit,sector,contacto,correo,telefono,activa
+1de1811c-d740-4e40-9d38-4aa99a7a35ec,"González, Villamizar and Vargas",218.196.001-3,TECNOLOGIA,Johana María Ramírez Bernal,ltorres@montes-rodriguez.com,+57 365-423-5116,True
+c7ebf423-7a62-49cd-9ad0-5506553e1221,Mosquera LLC,940.781.618-4,COMERCIO,Fabián Hernando Gómez,ivanbustamante@gaviria.org,375 255 3419,True
+ad05669f-25e3-446d-8754-4be7503895f7,"Pérez, Padilla and Pérez",6483503056, educacion ,Andrés Barreto,fernanda76@cruz.co,384 969 6532,SI
+2e283d20-4ed9-4959-bedd-9708a91a9523,"Rincón, Tovar and Prieto",226.916.697-8,TECNOLOGIA,Alcides Estrada,duartemartha@espinosa.org,362 704 8281,True
+e21fa535-1587-4051-a6ff-61b7ceda4faa,"Jiménez, Henao and León",2528809570, agroindustria ,Margoth Estella Serrano,daniela39@garcia.com,3822782489,True
+e211d12f-c7ed-4426-9149-fdb156deaee9,Alfonso-Oviedo,346.578.713-3,LOGISTICA,Claudia Elizabeth Torres,mariatoro@torres.co,3183473829,True
+e934ad30-c2c7-467b-a3e6-bf9e6edbee5f,"ORTEGA, SERNA AND ARÉVALO",311.656.670-1, educacion ,Alejandra Herrera,vargasliliana@hernandez-diaz.co,3317810801,True
+bbc3ca5d-510d-4601-8776-20f7729138a2,PÉREZ GROUP,736.026.064-7,LOGISTICA,Alejandro Yepes,ssanchez@tamayo.nom.co,+57 380-500-9788,True
+c360d3f0-11fd-4491-876a-df342afb411a,Martínez PLC,1219136193,AGROINDUSTRIA,Natalia Guerrero,ignacio35@ortiz.net.co,+57 347-510-7991,True
+31e6b1f6-c74b-43cf-8392-b31fb3780e1b,Montoya PLC,425.135.427-8,FINANZAS,Mario Ospino,sotoluis@lopez.com,382 449 3534,0
+29b90220-919a-472e-858a-1fb639f88a3e,"Reyes, Espitia and Sanabria",164.005.242-7,Logistica,Julio González Garcés,luispalacio@cortes.co,3053315869,True
+a628848e-9844-4af5-9669-6253347b93cc,"Sánchez, Oviedo and Leal",2602563421,AGROINDUSTRIA,Freddy Andrade Torres,yromero@torres.net,3654145868,False
+e1ecf43f-fdca-4925-8cec-88a9cd671713,Rico-González,4294019655,COMERCIO,Ricardo Molina Flórez,johanablanco@guzman.net.co,+57 335-615-9514,True
+56dd9c3f-0dd4-45d9-acf1-86f53ed657d2,"Álvarez, Parra and Castillo",482.366.299-4,Educacion,Iván Rodríguez Gutiérrez,msernaruiz.co,+57 372-148-9513,1
+bd042d79-fa95-404e-bf87-9f1cb994f7dd,"Álvarez, Arévalo and Sánchez",0379176936,Tecnologia,Diego Carlos Pacheco Galindo,patinomarinadelgado.com,3727889579,1
+c00bb012-8b30-457b-8f06-e7121e324660,"Galindo, Osorio and Fajardo",7277434873,AGROINDUSTRIA,Óscar Forero,luisaruiz@garcia.com,3316658760,True
+4f3f8d16-772f-4113-b9c0-afaddd4076f2,Roa Group,909.670.546-6, construccion ,Olga Marcela Reyes Giraldo,dvanegas@puentes.com,+57 369-901-6272,False
+99ce9239-ce10-4a9a-84ed-36da58236300,Muñoz LLC,3755646417,COMERCIO,Katherine Martínez,ines10@quiroga.com,+57 392-327-1937,True
+848db277-473e-45fc-8c34-df2f0b9c60da,"Muñoz, Arias and Calderón",1241904966, finanzas ,María Johanna Pineda López,gustavo91@paez.co,3185067165,True
+73763942-a3f5-4fa5-8dd6-92ac9edf8900,"Galindo, Cruz and Sánchez",2849877694,AGROINDUSTRIA,Robinson Albeiro García,dvargas@leon.co,327 354 5494,SI
+4c26eda8-bac4-48d1-ab27-828a073a3bdd,"Rodríguez, Erazo and García",678.377.701-4, comercio ,Alejandra Paola Vergara Arias,manuela85@narvaez-ortiz.org,331 351 8233,False
+75193e53-ab34-449d-a0d8-b70aef2a1bbe,Díaz-González,7139005329,LOGISTICA,María Nidia Rojas Rojas,sofiasanchez@rodriguez.com,+57 384-210-2053,True
+fb737a59-af93-4c1b-a8e4-e56b1da5ca06,Ibarra-Acosta,167.190.229-4,Logistica,Amalia Luz Cabrera,ivanflorez@jimenez-fernandez.co,349 909 1334,SI
+82fc46ee-1a46-4cdd-9800-3a52931b4535,"GARCÍA, MORENO AND CAICEDO",206.797.403-4, comercio ,Hernando Cárdenas,martinmesa@fernandez.com,3832421024,True
+3ba51b2d-70c1-460f-92af-b6e26631f7ab,"Zambrano, Jaramillo and Gutiérrez",1746488771,EDUCACION,Hilda Galvis,maria39@angarita.org,390 278 7429,True
+8d7c90b5-11fa-4d7e-b5a2-f7016e739976,Acevedo-Rincón,1756551256,AGROINDUSTRIA,Jorge Esneider Aguilar Caicedo,qlopez@gonzalez-perdomo.co,308 760 3859,False
+d044e1ec-80b4-4b07-bf2c-0351f8196a56,PINEDA-OCHOA,348.247.710-9,Finanzas,,jonatanbarreto@erazo-jaimes.com,+57 374-846-7737,1
+d28da876-e66a-42d2-87b2-db3ecd6d450b,"SÁNCHEZ, RAMÍREZ AND CARVAJAL",2146584044, salud ,León Daniel Ramos Quintero,ucardenas@puentes.com.co,363 605 7662,SI
+f2a8c170-281f-4876-95fa-1a574526c480,Alfonso-Hernández,9517187026, construccion ,María Ocampo Ortiz,vbernal@andrade.nom.co,+57 378-091-3431,True
+0df12782-aca2-4077-a152-3dd4d0900bf9,López and Sons,833.898.881-6,Finanzas,Aníbal Luis Hernández Rodríguez,mercedes52@naranjo-carvajal.co,3240132234,False
+16e3c27c-325f-4ec0-9caa-9a4ce212975c,"Vásquez, García and Garcés",946.474.367-1,Salud,,mantillaalexander@rodriguez-leal.nom.co,3097439533,True
+ca94aa11-31ee-4acc-8992-bbaa7d575b25,"Vargas, Tovar and Castañeda",210.470.952-1, salud ,Alexander Guerrero,marcelamontoya@contreras-caro.com,3474517123,False
+787664ff-99ca-4a41-b66a-ca426e979c3a,"Vanegas, Puentes and Parada",8516048175, agroindustria ,Dario Pinto,sandra37@beltran.co,3931746120,False
+a438fc97-31ef-4621-8a81-7d22415a659d,SUÁREZ GROUP,113.826.758-6,EDUCACION,Lida Hoyos Palacio,rrico@barrios.co,3735158506,False
+75193e53-ab34-449d-a0d8-b70aef2a1bbe,Díaz-González,7139005329,LOGISTICA,María Nidia Rojas Rojas,sofiasanchez@rodriguez.com,+57 384-210-2053,True
+20f82d0f-bd4f-4a9e-9e77-3f98bd591330,"Valencia, Pérez and Martínez",6811775891,Logistica,César Esneider Gómez Páez,yineth00@sanabria-osorio.com,3771159212,False
+a9e06dac-2e20-47bb-94e9-246bfddceb9b,Trujillo-Orozco,569.847.896-1, agroindustria ,Jennifer Camila Solano,rubycampo@herrera-cardenas.co,+57 315-654-5271,False
+2bfa77ac-5dc1-4f84-beb8-b13a88c10518,ROA INC,6152809885,TECNOLOGIA,Adriana Xiomara Ibarra,usalas@bolanos.org,3519832731,True
+4f3f8d16-772f-4113-b9c0-afaddd4076f2,Roa Group,909.670.546-6, construccion ,Olga Marcela Reyes Giraldo,dvanegas@puentes.com,+57 369-901-6272,False
+52a9c6f1-6e4b-406b-857e-a09b2a0d2d61,Herrera-Arias,5991022901, finanzas ,Óscar Salazar,npena@gonzalez.net.co,397 840 3690,False
+36b17f57-4978-46cc-9047-6e88ac658193,Ramírez and Sons,863.878.294-5,Finanzas,Sebastián Torres Velásquez,patricia06@cruz.co,+57 396-966-4160,1
+975609da-a24e-4088-b62f-98fcb701f6b3,Pérez-Erazo,751.613.696-8, comercio ,Alejandra Lucía Herrera,jaime18@gonzalez.co,352 312 4329,0
+3a4f3a76-13a5-479f-b757-5bd6b09fd01c,Ochoa Ltd,9330517289,EDUCACION,Carlos Andrés Marín,orlando90@palacios-alvarez.co,300 541 1998,1
+e61a236a-6b29-42fb-b766-2b4b81fd7b13,RESTREPO-CORTÉS,0793597820, agroindustria ,,mariatoro@silva-leon.co,+57 354-665-9051,False
+54cc2a7f-568f-4e59-bdc4-9d4330e9c24e,López-Buitrago,449.251.925-4, construccion ,Carlos Blanco García,vfranco@camacho.net.co,381 685 0542,True
+1a997050-0a00-4995-b8e7-449cfb09f548,Herrera Group,3322141888, salud ,Vanessa Pardo,juansanchez@serrano.com,370 653 7947,False
+6677453c-cb7f-4fd9-a7b7-1b811c809565,Lozano LLC,735.977.468-8, tecnologia ,,omarmartinez@pulido-cortes.com,381 412 4782,SI
+c3aff561-9e2c-4962-8bc2-b32378994a79,  López-Vallejo  ,7506068536,Tecnologia,,dario20@alarcon-ortega.com,3779010432,True
+c092424c-72ed-4fac-8a7b-05f7e95800b3,"Ballesteros, León and Salazar",434.103.697-1, salud ,Omaira Tatiana Lozano,oscarjimenez@garzon.com.co,+57 362-185-1888,False
+92fc89a9-4d9f-48e4-83e9-308a5c25d069,"Cortés, Giraldo and Correa",6540515319,Tecnologia,,alvaroduque@acosta.nom.co,3704303054,False
+66b92266-3d17-49a3-8658-0de76a0e72af,"Castillo, Ayala and Ortega",034.505.415-6, agroindustria ,Alfredo Lara Giraldo,giselazapata@ortiz.co,392 845 1154,No
+2594ad71-5988-43ce-a860-7aeab950f966,MARÍN-BECERRA,2757059640, comercio ,Mary Adriana Molina,felixsanchez@buitrago.net,355 690 9275,True
+d1f2f6eb-cc4d-4707-b558-96009d5a29ab,MARÍN-GARCÍA,285.654.310-2,Tecnologia,Rafael Ronald González Guevara,nrojas@velez-molano.net,3121727155,No
+0e6b1aaf-6f8c-4f69-93ef-48af8b3c98eb,"Martínez, Ríos and Galindo",2258313237,CONSTRUCCION,,jarenas@avila.com,346 786 6912,True
+ca26aef4-89da-42bd-bbe8-16a8b2ba7315,Bedoya-Cardona,8528922680,COMERCIO,Beatriz Lucía Pérez,erikaibarra@sanabria-vargas.net.co,+57 384-249-8182,False
+f8c20662-b8e3-48de-bc8e-e0b7be10fc36,"Ibarra, Sánchez and Navarro",9590010943,Salud,Edwin Gómez Campo,jorge47cifuentes.co,+57 347-102-7677,False
+ef7d7cd1-b651-48e0-82e2-c31f4d6e3264,Herrera and Sons,5556258815, logistica ,Cristina Marcela Vargas López,giovanny96@burgos.co,+57 395-327-8774,False
+baa44fbf-3fe3-47ee-8e7f-c9555db56f5a,Rodríguez-Garcés,8733950047,SALUD,Jorge José González Hernández,miguel65@castillo.co,335 841 6878,True
+1010a2aa-fdd8-49a6-87a8-8efb617c0ac7,LUNA-TRUJILLO,912.165.585-2, comercio ,Karen Alejandra Gómez Gómez,ricardo87calderon.com,+57 359-526-9495,True
+7d242851-696b-4c40-b81b-5ae17e24f0dc,"Salcedo, Lozano and Blanco",4705516940,Salud,Fernando Pablo Cardozo Escobar,oscarorozco@silva.com.co,+57 362-309-1307,False
+7bff36cb-c4d7-4880-a7bb-bfaf0db83dc3,GUERRERO-PEÑA,3689702838,Salud,Wilber Jairo Rivera,matildelozano@mosquera.net.co,349 733 4843,True
+2e58f8e8-2d03-41f5-9f21-e36c27cb0311,  Fuentes-Rueda  ,757.584.419-8,CONSTRUCCION,Marlon Medina Herrera,nancygutierrez@garcia.nom.co,3733848421,False
+4cad1150-6378-4a80-8d73-8404b4daa989,"Mena, Moreno and Martínez",8330165712,LOGISTICA,,silviabetancur@acosta-ramirez.org,3540193802,True
+9ccb2953-ecfb-4378-905d-7f6e879c4492,Nieto-Díaz,067.240.049-9, construccion ,Margoth Claudia Cárdenas,icampo@correa.com,374 205 4932,1
+520badd6-5e90-4a13-90c6-c55a167dc5f6,"ZULUAGA, TRIANA AND NIÑO",851.612.275-3,EDUCACION,Carmen Moreno,estiven49@cordoba.net,+57 301-742-6841,True
+299c3ff5-692e-4698-b874-711d5be9dab1,"Alarcón, Jiménez and Ávila",3272795687,Educacion,Mery Ruth Hurtado Mesa,xcontreras@alarcon.com,3883982258,True
+9264c0da-63cf-4159-afe1-8cca14ec44cd,González-Rojas,9718707286,Tecnologia,,medinavictor@torres.nom.co,3180170462,False
+23b3211e-dff1-482b-890d-84848140845b,Castañeda Ltd,6567661825,Tecnologia,Andrea Alba Contreras,fredytovar@restrepo-pinzon.co,3863375243,No
+381f194c-5136-4b9f-9482-2f0701f5b037,"Cabrera, Gómez and Durán",903.311.907-9, salud ,Paola Gómez,nmoreno@hernandez.net,395 995 3428,False
+a1e84643-ba88-4ffb-9f31-d8663d0f7bb0,Peña LLC,089.268.705-6,SALUD,Edgar Diego Suárez,alfonsoortega@suarez.com,3708668826,False
+e84c7e52-35a2-4c74-a9e4-ec3059ee4d12,Muñoz LLC,1751830469, agroindustria ,Xiomara Díaz,carolpolo@suarez-chavez.net,3317393638,1
+9b5629cc-8c45-47e8-ad9d-67266f196c68,Guevara-Flórez,854.458.771-7, educacion ,Ronald Manuel Peña,jairorodriguez@betancur.com,335 369 3785,1
+f5e6d907-788d-4af8-b3d3-bbf910d3d3d9,Castellanos-Reyes,772.522.872-8,AGROINDUSTRIA,Lina Villa,garcesenrique@pena.net,312 038 7509,False
+189e348f-c2db-4558-ad64-89257d425441,"Soto, Garzón and Ramos",700.886.008-4,Finanzas,José Guerra,larevalo@prada.com,333 984 5461,False
+54c5e312-62a9-423d-a105-e0411669cb58,Olaya-Cruz,3341016668,TECNOLOGIA,Andrés José Pérez Sierra,vfranco@rendon.com,3339740148,1
+be94717a-c8d3-41ca-a5df-1a3d0ca0d94c,"Navarro, Díaz and Gaitán",0392614293,EDUCACION,Pedro Ríos Flórez,dariobarrios@sierra.com,3163159996,No
+66e1445f-f565-4336-959c-89256de7613d,GÓMEZ-CASTRO,773.586.629-6,CONSTRUCCION,Constanza Milena Vargas,garcialucia@paez.co,311 047 5412,0
+77cae80b-cc70-45f8-ae9f-1e19a7131d94,DÍAZ GROUP,888.610.158-1, educacion ,León José Peña,vanegasluis@cordoba.net.co,+57 362-244-4721,True
+7a31e238-6e03-4ae7-828c-4c58ad920318,Mejía Group,4715437993,LOGISTICA,Luis Jesús Núñez Quintero,varenas@quintero-ayala.net.co,392 459 3752,SI
+a5680f84-7067-4573-ab55-da462a59eb93,Tamayo-Jiménez,793.564.651-9,Logistica,,nvalderrama@bautista-serrano.com,3672434266,True
+53458ac5-9cd7-4f43-b43f-f76bd47074a0,Cardona PLC,796.886.805-8,TECNOLOGIA,Luz Paola Vergara,jorgegomez@buitrago.co,3101438889,True
+7b50f00d-9676-4aef-b669-e2dc84c4332f,"Córdoba, Marín and Giraldo",9825071461,Construccion,Marleny Dora Romero,yasmin38@romero-lopez.nom.co,375 140 1051,True
+16505631-56ee-441e-aa5b-1f9e34b3b8e7,"Vera, Granados and Mena",828.258.673-6,Educacion,Andrea Navarro Medina,veronicaosorio@rueda.org,+57 319-182-5537,1
+eedfaddc-2e98-4b40-8f3d-b0c37f3e744b,Muñoz Group,8596969155,Finanzas,Mario Eliecer Rueda Jiménez,sandovaleugenia@suarez.co,+57 328-669-2966,SI
+3600b323-dc99-424c-9e37-05570007f20d,Chacón PLC,274.523.805-5,Educacion,Rosa Montoya Pérez,paola06@solano-erazo.co,3208854749,True
+6ee01425-284f-45fb-ac6d-0c585485bcde,Torres-Gutiérrez,797.881.914-8, educacion ,Ángel Henry Ochoa,bvasquez@galvis.net,+57 340-745-1713,False
+2fe34336-de87-4366-802d-5c81f9f933bd,Arrieta PLC,5962923309, agroindustria ,Sebastián Orlando Pérez,nancy48@aguilar.co,+57 304-223-2536,True
+d97bab4f-4f92-4ad3-8305-ac600682509c,Sánchez-Barrera,6671168457,TECNOLOGIA,Alexander José Perdomo Ardila,sacevedo@gaitan-rosero.co,+57 336-374-5458,True
+9f06f9b7-43af-4c72-80ab-0e81e2e548bc,Gutiérrez-Pérez,4565328632, agroindustria ,Camilo Peña Cruz,ariel72@becerra.com,3155626060,True
+82d87f84-df9c-4de4-8693-80b80dd3a351,Acosta and Sons,938.700.516-2,AGROINDUSTRIA,Andrés Eduardo Ariza López,aura42@perdomo-gallego.com,3218909275,False
+58b65963-e691-44b3-b9a4-bd96e173a8c4,"Rojas, Zambrano and Villegas",9731121965,Finanzas,Alexander Hernández Castro,vargasalberto@calderon.net.co,343 898 3640,True
+d2d495bb-65fd-4b5a-9b6a-6d1efbf0a257,ZAPATA INC,3791805526,TECNOLOGIA,Manuel Carrillo Castellanos,rodriguezpatricia@rojas-caballero.co,+57 384-866-6188,True
+059c6d84-da4c-4333-90af-b100c9a92e0b,"Sánchez, García and García",328.569.146-3,Agroindustria,Paola Velandia,cardenasalbertosoto-navarro.com,3102027588,No
+a8188937-d22b-4fa5-9ad4-e6519f514fd1,"Muñoz, Arias and Zambrano",4105648149,TECNOLOGIA,Esther Rocío Martínez,auramunoz@lara.nom.co,313 800 0307,True
+a7198871-02bf-42f1-b85e-1dcb3623f0de,  FLÓREZ-SÁNCHEZ  ,0863536541, educacion ,Luis Fredy Martínez,ricardobejarano@garcia-restrepo.org,3451870534,True
+71955f0c-d419-4ea5-a80d-7692c26507af,"Serna, Mena and Vargas",328.569.146-3,Finanzas,Luisa Yolanda Aguirre Rodríguez,maria64@rojas.co,370 241 0386,True
+9301c541-a177-4f0b-a05b-4f2eb10f27c8,"Lara, Cruz and Cano",9182619906,AGROINDUSTRIA,Paola Muñoz Álvarez,vbermudez@ruiz-ortiz.com,3329121277,True
+4b8643d8-87fa-41ee-9c49-3e690baf5c58,Parra-Lozano,3747411249,COMERCIO,Sandra Zuluaga,andreavargas@medina-martinez.org,342 067 8831,False
+3a3f18eb-ce9a-4bfe-af03-a2ffef02ae7f,  López-Alzate  ,1003236519, educacion ,Andrey García,ramirezjorge@lopez.com,+57 307-029-6670,True
+9556ce02-bcee-4904-ae60-0d6f05f7fdb7,CARRILLO-PÉREZ,3244720999, finanzas ,Paula Tatiana Nieto Acosta,castromarcela@franco.net,380 657 8759,No
+9b6ffacf-bf99-49e7-b898-0e0cbae9d585,"Ruiz, Ortiz and Rodríguez",9304078593, logistica ,Luz Hoyos Ortiz,cabreramarlon@sanabria.com,+57 323-955-9059,True
+6489703e-6149-4843-9f62-ad4e8ac57683,"Sánchez, Núñez and Perea",784.270.103-9,TECNOLOGIA,María Daniela Quintero Ávila,flordiaz@martinez-sanchez.nom.co,321 851 5691,True
+c90bd28f-b82f-4128-abe6-91d81821bfd3,Suárez-Hernández,267.528.953-9, salud ,Liliana Ardila Jiménez,miguelnunez@giraldo.com,+57 329-593-9172,SI
+cf0ffc27-8c32-4d9c-b5ab-1d570796c218,Sarmiento-Moreno,521.570.433-1,FINANZAS,Antonio Luis Rodríguez,amendoza@loaiza.co,+57 358-617-9327,False
+7633456b-91fc-4fef-9ef3-d70923d1dfd4,Vera Inc,405.411.526-2, educacion ,Esperanza Mayerly López,brueda@perez.com,353 368 8444,False
+447c7ee2-279e-46bf-9b81-7a2a77bc22e8,López Group,987.205.061-4,LOGISTICA,Alberto José Pérez Jiménez,ortegamartha@ortega-lara.org,318 625 6527,True
+5b89d29a-82ec-45d8-a277-9b8a1ef958de,Ortiz Group,434.902.115-8,Agroindustria,Alcides Fernández Cortés,afigueroa@pacheco.net,3741608989,True
+b1e0e060-4b26-4374-88d5-751a5be6ec18,"Riascos, Sánchez and Núñez",7223320616, agroindustria ,Leticia Eugenia Palacio Muñoz,garcialuis@valencia.com,399 861 6229,False
+4b6fa086-f23a-4fc4-993a-73476382c6a1,"Murillo, Alfonso and López",191.485.646-7,Finanzas,,vgomez@moreno.co,3054447132,False
+f96791af-70fd-4818-8126-e986444c0bcd,Quiroz-Marín,5469137367,AGROINDUSTRIA,Steven Rafael Pérez,camilo62@cuellar.net,303 070 5345,False
+8756a9c6-a70f-47a0-9467-7f5d129596dc,  Mora-Acevedo  ,103.579.727-9,Salud,Javier Jair Muñoz,gutierrezximena@marquez.net,3334680072,0
+8772be32-49c8-4866-84ab-73e334b32b60,"Pérez, Meneses and Torres",944.665.743-7, comercio ,Pedro Bravo,aorozco@anaya.co,+57 399-441-7154,True
+84fb3d3f-16ee-4dde-a44a-3094edc16f50,"Valencia, Castro and Hoyos",432.830.965-2, logistica ,Teresa Bolívar,eliecer66@gomez.net,353 875 8428,True
+1381aa6e-c9b3-4cb4-9a5d-12c0678a307a,  Jiménez Group  ,248.251.353-4,CONSTRUCCION,Kevin Quintero Muñoz,jimena17@gaviria.com.co,+57 391-738-1684,0
+0a84bfd2-f400-44db-9bda-f170c6a86e1c,Martínez-Márquez,2356972521, logistica ,Enrique Elver Álvarez Martínez,wcastroescobar.co,312 966 6676,0
+d69c5ea2-f385-4373-a061-0329c0962e12,GÓMEZ AND SONS,505.830.033-5,Salud,Carlos Flórez,claudia04cardenas-guzman.co,3562575326,True
+6191db74-ebef-4f6e-a11a-5dafb36b06aa,TORRES LTD,230.982.150-6, tecnologia ,Hugo Trujillo,duranjesus@martinez.co,376 184 7230,True
+da714ed0-06fd-407d-9975-319dd31db6eb,Salazar-López,8499261891,Tecnologia,Luis López,albertocastano@quiroz.com,3087375300,True
+2de9af87-9c14-405a-b60e-a6f2e453712f,"  López, González and Córdoba  ",721.811.437-4, educacion ,Miguel López,omarmelo@meneses-alvarez.nom.co,3110022557,False
+21ab2a13-21e8-470c-a3ff-5282399c6250,"Ortiz, Ardila and Arias",521.667.467-6,TECNOLOGIA,Luz Vélez Martínez,sandravallejo@arenas-buitrago.com,396 590 2771,0
+2286b09e-8c26-4f0e-9b14-8e5b5b8ce710,Mendoza-Martínez,508.993.588-9, logistica ,Marina Juliana Ramos,jsanchez@martinez.co,+57 372-175-3540,1
+acb1232e-eb8a-4b95-baab-fe6684d17b89,"Torres, Franco and Castillo",3177971775,AGROINDUSTRIA,Jackeline Alicia Rodríguez,jpena@rodriguez.com.co,348 837 5503,SI
+2b471b89-cb2b-4d34-909d-abfd388efe20,Quintero-Castañeda,975.711.305-5, comercio ,Iván Arias,gomezclaudia@pinto.nom.co,+57 361-493-3163,1
+c6514c88-bfab-4937-82db-74fd89f0d142,Luna-Ramírez,5160917798,CONSTRUCCION,Sindy Rodríguez Galvis,evilla@ocampo.com,3216995866,True
+ed34e3c3-4fc5-4c19-b45f-15bf049d54db,"  Ceballos, Castellanos and Castro  ",547.226.984-8,Comercio,Guillermo Willian Barrera,lauraforero@herrera.net.co,328 851 5879,False
+37bb7b90-134d-4a5f-89e2-f749c20e8b55,"Valderrama, Blanco and Gil",846.081.062-0,Salud,Diana Zambrano,jadercarrillo@villa.org,338 057 1983,False
+06f68bef-c954-4006-b6db-b08dc76343f0,"Jaimes, Giraldo and Palacios",406.665.800-4,Finanzas,Mercedes Sara Polo Serrano,alfonso89@guevara.org,+57 372-122-8160,False
+24db43de-8804-42dd-968f-5ac3c3e6b6f8,CASTRO-ORTIZ,294.057.202-5,Tecnologia,Ximena Pineda,jackeline98@garcia-toro.co,332 818 2688,True
+054690cd-4308-471c-864c-cea952a55079,  López-Torres  ,355.543.987-8,FINANZAS,Luz Herrera,andersonavila@vargas.co,3164840858,SI
+b00a40ad-6913-4694-aba7-1a362bddec8d,"MARÍN, GÓMEZ AND BURBANO",3581128801,TECNOLOGIA,Mary Ximena Leal Salazar,rojaspablo@guevara.nom.co,320 750 1102,True
+2ec57072-bfbf-4556-b144-b1e5a9e94c06,Velásquez-Córdoba,3466766506,Comercio,Alba Angélica Beltrán,bermudezpatricia@lopez.com,3476607283,True
+b1ae2da5-db7c-41f1-9cbe-4383f1dba1a3,Cano PLC,424.508.821-0,Construccion,Alexandra Medina,suarezcesar@herrera.co,3222394312,0
+0cb107a3-e424-491d-a139-77e28d15976d,"Vera, Melo and Melo",878.141.413-9,Educacion,Efrén Javier Sandoval Moreno,david35@cardona-garzon.org,+57 392-995-5620,False
+6656bc97-9c81-45d4-8e4a-5e3f1dcf09e9,Vargas-Torres,6452577754, comercio ,Jaime Juan Calderón Sepúlveda,adolforamirez@rivas.com,+57 380-996-9308,True
+14150325-47e3-4c66-9413-47d13495fc2e,Ríos-Molano,7256394278,Finanzas,Alejandra Tatiana Vergara,rafaelhernandez@diaz.net.co,3275037314,False
+19b19a56-5596-4938-a1b7-a36994c5b6f6,Moreno-Camacho,856.770.051-8,LOGISTICA,Gerardo Ortiz,leonorrivera@arango.co,+57 338-655-7790,False
+26bfe6ec-147b-4aea-a704-85495afea327,"Nieto, Mendoza and Torres",285.654.310-2,TECNOLOGIA,Anderson Pinzón Ramos,lacostajaimes.com,+57 330-299-2280,True
+6ba8cf85-db31-40fb-bd43-5721d8704be3,"Sánchez, Pérez and Caballero",8699041379,COMERCIO,Oswaldo Juan Serrano Carvajal,antoniopalacios@vanegas.co,3991366210,True
+1c1da953-9efb-4fb3-94eb-6d9d246762ce,  Guzmán PLC  ,629.127.990-8, tecnologia ,Luz Sofía Pabón,trianaivan@mejia.nom.co,386 376 5991,True
+5097d58c-e565-42f4-9da1-1f49f7575310,Hernández-Acosta,3149864300, comercio ,Beatriz Liliana Rojas,maribel12arango-munoz.co,369 594 6368,No
+091bc903-f3d2-4a91-bac0-49f002aa68de,"RAMOS, ARIAS AND CORTÉS",449.562.137-2, educacion ,Sandra Alejandra Quintero,perezoctavio@cifuentes.co,+57 396-114-3519,False
+6c081663-5f2c-42ba-916a-bc4fef1d5946,  Vanegas Group  ,984.902.770-3, educacion ,Juan Páez,davidgil@moreno-rodriguez.com,+57 314-656-6938,False
+0790e17e-2741-48a4-941e-7101bd6a557b,Daza Inc,1848955439,FINANZAS,Lorena Alejandra Rodríguez Pérez,velasquezjoseerazo-arenas.org,3894769735,False
+da582d24-e303-4024-85c6-c38e2bdeac0f,Carrillo-Triana,0714163356, logistica ,Rafael José Roa,alexandracastillo@pinto.co,3553942373,True
+2761f623-ab98-47ae-9ac5-c4889fbf1e43,  Galvis LLC  ,333.395.211-1, agroindustria ,Mario Alonso Ríos Gómez,uarias@burbano-rangel.com.co,3472846392,0
+b8cbce92-a8fc-4b06-856a-af15c91c4763,SILVA GROUP,7808562718, logistica ,Alexander José Gil Rivera,valenciadavid@diaz-ortiz.org,3795527636,No
+ce46e224-1032-4a57-9c03-a99c9a8adcec,Mejía-Torres,9290600780,Finanzas,Sebastián Acosta Bautista,cardenasdaniela@gallego.net,+57 325-431-0742,True
+a18ab744-dedf-42e9-a48a-0a46eb46998d,López-Pérez,347.175.455-8,COMERCIO,,arturo93@escobar.org,3558771694,True
+b235fc45-74bc-43b9-ab0d-2a35c909d534,Barrera-Sánchez,2569961125, finanzas ,Lucía Teresa Blanco Calderón,cortiz@cano-guzman.co,3622023413,False
+34648fc3-0ff5-442e-a7a9-04d6bc10beac,MEDINA INC,178.006.811-4,Logistica,María Montenegro Giraldo,esthergutierrez@hernandez.com,+57 355-778-4872,True
+f65cafe8-948a-4789-9147-9a621a689e94,"  Montoya, Vega and Cruz  ",968.845.783-1,TECNOLOGIA,Jesús Camilo Sánchez Rodríguez,nubiacorrea@pacheco.co,3406493085,True
+609dfb05-f5f0-4c1b-9cd3-576db11414bf,PEÑA PLC,6632663416, logistica ,Beatriz Pilar Ávila Vélez,amparo84@diaz-garcia.com,+57 341-797-4973,False
+14805666-fb1a-4867-ad45-947799570cb9,Rodríguez-Martínez,802.144.270-3,SALUD,Ana Esther Herrera,julian75@benavides-gomez.com,3204618723,False
+9533de6b-58e9-4145-af00-c630dcb417b6,Figueroa-Salcedo,136.730.371-8,SALUD,Leidy Flor Álvarez Ruiz,sarmientoluis@munoz.org,3350313650,True
+46f82440-d7bc-44a4-ba52-df0ff20ee334,ALZATE PLC,163.009.792-5,Comercio,Paola Tatiana Duque,jhonatan00@franco-narvaez.com,+57 327-358-5730,False
+85e05fe1-eaf3-4cf4-88ce-40300295bdde,"RIVERA, VANEGAS AND VARGAS",077.848.739-2, logistica ,Alexander Felipe Salas,patriciasanchez@fonseca-rios.co,308 620 9593,False
+cd109919-6f0a-480b-b5dd-9eafe993aa21,  Camargo-Navarro  ,863.878.294-5,EDUCACION,Leonardo González Guzmán,gomezduvan@arboleda.com,373 109 6789,True
+0d07347e-7923-427e-8455-c185872cd70d,"Fernández, Martínez and Torres",103.717.058-6,Tecnologia,Yesid Andrés Garzón,ardilahernan@garces.com,+57 313-863-3839,False
+6e399844-8443-4af9-a082-05a1ad18ea97,"Erazo, Velásquez and Velásquez",1957612286,AGROINDUSTRIA,Pablo Sebastián Carvajal,roberto85@pena-barrera.nom.co,+57 359-398-3684,No
+d2410733-52c6-47cf-850a-a169ec93ab79,Burgos-Cardona,600.490.824-0,EDUCACION,,maria48@velasquez.com,375 224 5933,True
+ed5b1236-9ed7-4578-8960-cf4d64c5ac5f,Arrieta-López,693.157.279-1,Salud,José Montes,dgarcia@romero-ayala.co,+57 313-906-0480,False
+67a8a5fa-f243-41d3-a6e7-dce9beeebcea,  Montoya-Sánchez  ,8320679981,LOGISTICA,Fernanda Ingrid Sánchez Quintero,djaramillo@castillo.nom.co,+57 322-783-7693,True
+d3647177-7fd1-4485-8a52-68b0b3174012,"Garzón, Galvis and Vargas",146.591.166-5,Construccion,Juan Javier Hoyos,carolina59@trujillo-mendoza.net,+57 335-211-0392,False
+502aad22-e0f4-47b8-9ee0-8a940cf2fd9c,Rodríguez-Aguirre,1477053833, educacion ,Iván Trujillo,jhoncamacho@orozco-vergara.com,+57 342-043-9407,SI
+207ef78a-b8b3-4f4c-bda7-1376131768fa,"Garcés, Martínez and Durán",5104636815,SALUD,Milton Sebastián Díaz Sierra,tlondono@gomez.org,+57 357-620-5554,True
+bc36ae5f-98a3-4157-9002-0c6a4a5d009c,Orjuela PLC,4046084325, agroindustria ,Pablo López Flórez,elviracordoba@manrique-chavez.co,378 232 9832,True
+2b44efe9-0771-41cd-9edd-e6c4c50c752d,Pacheco-Burbano,262.925.188-1, finanzas ,Cecilia Cuéllar Bonilla,fabio66@marin-saavedra.net.co,+57 342-312-2099,True
+af52e4f3-615e-4906-b82c-d84524c33042,Calderón-Ávila,9330517289,EDUCACION,Esteban Eduardo Melo Rincón,claudiatorres@cabrera-rodriguez.org,363 331 2797,False
+c4cc518c-1a42-485b-88ee-fb4aebd3707c,"Valencia, Cruz and Vargas",609.656.999-8,Construccion,,monsalveesther@medina.co,3034764472,False
+f58c96d7-f7f1-4f16-9a2a-c270b8067fdd,  Jiménez-Villegas  ,827.718.129-8,EDUCACION,Elena Valencia Rodríguez,tvega@nieto.org,352 111 7518,True
+261c5d1e-ec5e-4838-9acb-688fe68cbfbc,"Flórez, Mercado and Molina",2686025922,LOGISTICA,Andrea Amaya Guerrero,miguel74@diaz.com,3940777809,True
+8bb848b3-7842-413d-bfba-81c4db1790f2,Moreno-Fernández,776.719.903-8,Agroindustria,Edwin Velásquez,luzsanchez@romero.com.co,394 510 1622,1
+811463b1-4cce-40c5-9d11-f0074507a693,"Gutiérrez, Durán and Bermúdez",982.795.014-5,Comercio,Efrain Steven Uribe,jimenezmarcela@estrada.net,339 019 8179,1
+fd906b2b-6c74-4217-b258-240333ca9c25,"Gutiérrez, León and Ruiz",778.660.324-2,COMERCIO,Rubén Libardo Moreno Gutiérrez,mariarodriguez@bautista.com.co,+57 366-055-8303,False
+137f2b53-d01c-40ff-b448-04350a60b835,"CASTRO, ANGULO AND ÁLVAREZ",8850155699,Agroindustria,Marta Ramírez,elkin77@jaimes.com,378 576 0849,False
+e8924d61-0bb2-489e-87c6-bffba5893c9e,"Buitrago, Cortés and Rodríguez",955.124.056-8, logistica ,Alexandra Giraldo Hurtado,camilo50@pena-zapata.net,357 438 4215,True
+600f0590-1314-417d-a0dc-7081541fc0f2,  Castaño Inc  ,780.782.357-8,Comercio,Sergio Sánchez,pintoduvan@angel.co,+57 381-040-9157,True
+920efe38-f995-4f85-88d3-45378632a1f5,López Ltd,409.435.334-4, comercio ,Sergio Fredy Ortiz,esperanzarodriguez@velasquez.co,3542493214,True
+1114cdbf-2bbc-4c94-8cab-1c986e036a86,"Galindo, Ríos and Martínez",0701601662, tecnologia ,Mario Alexander Figueroa Amaya,quirozalfonso@jaramillo-lopez.nom.co,371 747 7332,SI
+aa636a60-fe85-4303-b277-3b83af4ebf04,"Muñoz, Morales and Díaz",557.701.715-7, construccion ,Harold Jorge Romero Córdoba,parraalejandrovalencia.com,+57 348-769-6393,False
+cd8c4625-91b4-4201-a9f3-9eca2a82ed02,"  Pérez, Ramos and Martínez  ",3966958321,Agroindustria,,zdiaz@carvajal.com.co,3657013290,True
+a045aeb6-0605-43ea-a61b-d00bc2b44c00,Durán Group,8469973354,Agroindustria,,heriberto90@ospino.org,305 800 8514,True
+f1b31c67-8849-4127-b5d1-47984edcb73a,Moreno Ltd,9656666832,COMERCIO,Carlos Jaime Benítez Mosquera,qsanchez@hernandez.net.co,302 762 1267,True
+0e6052ac-fb79-4476-9e03-1d46fdbd48fd,"Agudelo, Osorio and Díaz",8687653269,Agroindustria,Nancy Sanabria,alejandroortiz@escobar.co,351 971 2847,True
+fa99c5c8-bd81-4514-9fd7-b041c76908a0,"GARCÍA, NARANJO AND LÓPEZ",7189490580,Educacion,Daniel Jeison Córdoba Quintero,ever44@gomez.nom.co,3494079290,False
+aba1d1b2-868b-44a0-acd3-6e7cbf80419d,"Cerón, Montes and Trujillo",4712814429, agroindustria ,Fernando Muñoz,agudelosteven@sanchez.org,3372805129,True
+118219d7-5069-4a2e-8656-8dbd30461c79,Velasco Group,6372395041,Construccion,Ana Castillo,irene83@carrillo-giraldo.org,328 604 7658,0
+7dff5627-bdd2-4c78-b1e0-075ec4ae9312,"Arteaga, López and Contreras",5694544149,Tecnologia,Miguel Gil Vargas,josebuitrago@alvarez.net.co,301 061 8175,False
+fbdc94d7-276c-43fe-9e9f-eeabf22fd28c,  Bonilla LLC  ,968.845.783-1, comercio ,María Angie Rivera,johanvelezjimenez-duran.com,3746542140,SI
+609522a6-55be-40e4-90bb-dd3d8f49eba7,Giraldo-Orjuela,4427173962,Construccion,Luis Ángel Mejía Ávila,barretoalejandro@gomez.com.co,+57 347-072-0064,False
+46d95186-857a-4788-ad80-bffaf69c62b9,Bermúdez Group,908.776.618-3, comercio ,,igonzalez@quintero-suarez.com,3158517432,SI
+f5c18718-9f97-47ba-afa0-ecc66ae42722,"Gómez, Flórez and Ramírez",6157173203,Educacion,Consuelo Vega,ygiraldo@franco.co,+57 300-505-0613,SI
+23b3211e-dff1-482b-890d-84848140845b,Castañeda Ltd,6567661825,Tecnologia,Andrea Alba Contreras,fredytovar@restrepo-pinzon.co,3863375243,No
+37bb7b90-134d-4a5f-89e2-f749c20e8b55,"Valderrama, Blanco and Gil",846.081.062-0,Salud,Diana Zambrano,jadercarrillo@villa.org,338 057 1983,False
+082307cc-13f9-4d7b-8f9a-a38df4f87677,CARMONA LTD,9467232487,Logistica,David Pérez Aguirre,oscaravila@pineda.co,360 833 1819,False
+c1dea574-9b48-4bd3-90fc-117be494a708,Alvarado-Ospino,837.340.312-7, comercio ,Juan Fredy Gómez Franco,laura45@cifuentes.nom.co,308 220 7811,0
+7d49149a-87cf-4fca-bc19-d8fc6bd6a5d7,Camargo PLC,956.353.153-1,Agroindustria,Eliana Edilma Rivera Torres,dorozco@sanchez-chaparro.co,+57 326-527-3543,False
+0eef11c4-ccb2-4a37-897b-68fe1e3be8ad,Hernández-Aguirre,0421776253,FINANZAS,Francisco Angulo,carloscortes@garcia.co,+57 339-774-0633,1
+ce46e224-1032-4a57-9c03-a99c9a8adcec,Mejía-Torres,9290600780,Finanzas,Sebastián Acosta Bautista,cardenasdaniela@gallego.net,+57 325-431-0742,True
+265d2f39-3af0-42ef-b830-eb36aabcb43d,GAVIRIA LLC,199.663.658-0, finanzas ,Arturo Armando Gaviria Toro,luis18@ramirez.co,390 983 7801,True
+0aaada9b-59a7-4126-a489-d0d6c1ab783f,Díaz-Velásquez,1832538179, tecnologia ,Leonor Mery Ruiz Burbano,ecastro@herrera-reyes.co,317 884 7951,False
+72dbd090-8653-44f7-9a22-2bb71736a311,Galindo Group,116.241.124-1,CONSTRUCCION,Esther Pulido Guzmán,jimenezsaul@montenegro.nom.co,+57 304-310-3856,True
+959b215c-7d7a-49d3-9c12-ea5a75cf178f,"Herrera, Jaimes and Valencia",9887749242,Educacion,David Arias,angel02@gutierrez-arteaga.com.co,+57 328-422-2231,No
+3600b323-dc99-424c-9e37-05570007f20d,Chacón PLC,274.523.805-5,Educacion,Rosa Montoya Pérez,paola06@solano-erazo.co,3208854749,True
+64395414-860b-4286-b516-25959924faa9,"Sánchez, Ospina and Fajardo",7517028140, salud ,Mario Torres Mosquera,luz39@torres.com,318 718 6375,True
+a97f2956-2c15-4293-a6d4-c267cb9a64d8,"CALDERÓN, BARBOSA AND GAMBOA",5626565045,Logistica,Jesús Daniel Londoño,miguelmarin@arenas-gutierrez.nom.co,+57 366-299-1234,True
+a5d0c6c2-5071-400c-89b6-ab0496e26250,Ojeda-Silva,5196106462,Finanzas,Guillermo Henry Hernández Díaz,fgutierrez@bravo.com.co,347 873 0024,True
+437455e7-eea6-4f9f-b0ec-753eafc54b45,  Arteaga-Palacio  ,7146273014,Finanzas,Deiby Andrés Sarmiento Murillo,osalas@acosta.co,+57 390-429-0257,False
+e5b2f23e-25b6-485f-9b38-ca3bb3fd838b,"Hernández, Pérez and Ortiz",6504481832,EDUCACION,Karen Ana Ruiz,pablo44@benavides.co,3202845765,False
+0df12782-aca2-4077-a152-3dd4d0900bf9,López and Sons,833.898.881-6,Finanzas,Aníbal Luis Hernández Rodríguez,mercedes52@naranjo-carvajal.co,3240132234,False
+c2dd3e65-f99b-4dc3-a1b8-74c29b342aa7,Rojas Inc,611.076.031-0, educacion ,,martinezenrique@ocampo.net,393 250 1249,SI
+7103ec6e-5bbc-43fa-9f71-176a00b55c2d,Romero-Ordóñez,9389119083,LOGISTICA,Dahiana Andrea Gallego Rodríguez,salgadomarco@ortega.net.co,3125663836,True
+3316e6b4-34b9-4ebe-9801-4bad3bb005f3,Castellanos LLC,1718275480,Agroindustria,Claudia Luz Gutiérrez,eduardo73@parra.com,375 207 1678,No
+b98f0f98-4edc-4ee4-9b75-16148288528d,"BUITRAGO, GONZÁLEZ AND MEDINA",912.153.539-6,Salud,Martha Laura Sierra,alfonso65@soto-quiroga.co,+57 384-271-1477,False
+9df1f7ae-0d1a-443e-8209-0beed0ead219,Méndez and Sons,010.170.269-5,LOGISTICA,Lucía Trujillo Ochoa,malzate@duran-rincon.org,3858800616,1
+c91fdac7-975d-4bd5-acc4-85a1ac2d5e26,Álvarez-Rivera,700.284.276-2,Tecnologia,Esteban Reyes,jaramillojackeline@duque.com,+57 380-647-9695,False
+c69fec44-d932-4589-a9b6-879c0dadeba1,Ruiz-Gómez,025.590.561-6,Salud,,estherjaimes@garcia.com,+57 352-085-0769,False
+49cb253c-42ed-40c8-a769-f0b70469c752,"  Galeano, Ortiz and Vélez  ",6632663416, construccion ,Johanna Sandra Zapata,claudia45@ramirez-acevedo.com,3834404963,False
+029200e5-1479-4240-b6c6-0db0c8f0ca87,"Villamizar, López and Meza",195.419.876-3,AGROINDUSTRIA,Ernesto Augusto Suárez,karol85@pena.com.co,3878208297,False
+c3010508-c653-4ad6-900c-ebd132f460b9,Durán Ltd,748.969.083-5, salud ,Carlos Carlos Duque Suárez,epenaramirez.net.co,3249363123,False
+7fe9cc2b-c0e4-42a2-aa0d-06cd0802373a,Vargas LLC,778.660.324-2,Finanzas,Carmen Arenas,jorgegomez@reyes.com,+57 359-416-5162,False
+caebb2ae-0141-4359-93b9-94b7f219c82f,González Ltd,8189847139, educacion ,,vcifuentes@rubio.com,312 347 6490,False
+7b50f00d-9676-4aef-b669-e2dc84c4332f,"Córdoba, Marín and Giraldo",9825071461,Construccion,Marleny Dora Romero,yasmin38@romero-lopez.nom.co,375 140 1051,True
+6efc0d38-1739-4b2e-b569-1ca2f4f24c7b,Rodríguez-Salamanca,4413432756,COMERCIO,Marcela García,aortega@becerra-pardo.com,+57 324-815-6985,No
+7009e132-50ed-4064-ba54-d773a30ce234,Vélez-Castellanos,272.063.459-1,TECNOLOGIA,Ana Rocío Tamayo,edgarduque@cardenas-arboleda.com,+57 342-954-3165,0
+ba13b628-4de9-4225-a5c5-ff85016f1a9f,MEDINA GROUP,930.089.317-3,EDUCACION,Gustavo Pérez,mbeltran@sanchez-bustos.com,+57 391-086-7713,SI
+565f2c75-a872-4f96-9076-d4f44f573e69,"Ramírez, Monroy and Guerra",447.626.393-4, construccion ,Laura Adriana Sánchez Gutiérrez,leidy73@orozco-jaimes.com,3072563669,False
+c21e2cf2-6bde-4b8d-bff7-f9a6ed6f364c,García-Velásquez,053.759.900-4, tecnologia ,Jesús Medina Arias,murillobeatriz@rincon.com,358 624 1502,No
+3580b726-c988-430c-9c5c-98eebd20ea7d,Bohórquez-Palacio,564.494.856-2,Salud,Gabriel Mauricio Quiroga,jmartinez@torres.co,342 761 7075,True
+8ff6ba00-d337-41ab-95d2-aaedc62667df,"Londoño, Cruz and González",2151342284,AGROINDUSTRIA,Margarita Nayibe Silva Jaramillo,pcaceres@buitrago-murcia.com,341 659 1520,1
+aef86b29-7676-4f97-b938-bcffd028da79,Cruz Ltd,774.905.097-5, educacion ,Sandra Martínez Franco,orlando18@florez.co,310 326 6421,0
+e5a1761f-9b46-4a98-a359-5897432d6a8d,Rincón-Mejía,492.515.837-7,Agroindustria,Jairo Londoño Salazar,narrieta@mejia.com,308 573 2788,False
+8eaec7b4-41f7-429a-ad3f-2210815c3be1,  Jiménez Group  ,174.224.386-4, construccion ,Esperanza Alarcón,palaciosrosario@duran-jaramillo.org,354 918 0172,False
+66e1445f-f565-4336-959c-89256de7613d,GÓMEZ-CASTRO,773.586.629-6,CONSTRUCCION,Constanza Milena Vargas,garcialucia@paez.co,311 047 5412,0
+36544495-4a19-47d4-ad0c-1aa0ab75c202,"Gil, Barrios and Medina",4122031030, educacion ,Daniela Patricia Vargas Sepúlveda,andreasolano@ortega.com,+57 322-777-0793,False
+855785e8-5baf-4e43-a01c-2f8b966f98c6,Jiménez Group,050.166.799-8, agroindustria ,José Castillo,dmoreno@rodriguez.org,3671795760,True
+8785a680-5def-443c-b62e-01dd17048c21,Gutiérrez and Sons,7573839597, agroindustria ,Mayra Vanegas Giraldo,rroa@galvis.com,+57 393-417-2232,SI
+0aaada9b-59a7-4126-a489-d0d6c1ab783f,Díaz-Velásquez,1832538179, tecnologia ,Leonor Mery Ruiz Burbano,ecastro@herrera-reyes.co,317 884 7951,False
+c46b4b76-64b0-461e-80c8-148567a7b242,"López, Martínez and Monroy",7119918081,COMERCIO,Valentina Bohórquez Vallejo,migueltoro@sierra.co,352 137 6037,False
+9f06f9b7-43af-4c72-80ab-0e81e2e548bc,Gutiérrez-Pérez,4565328632, agroindustria ,Camilo Peña Cruz,ariel72@becerra.com,3155626060,True
+aab48dc1-8b0b-4bf6-bae4-29d4872aa272,"CABALLERO, SÁNCHEZ AND CÓRDOBA",846.684.550-4,Finanzas,Judith Marín Rojas,zbenavides@parra.com,385 628 8431,0
+6e3a635a-fd73-4539-bfb9-524a96ea4581,"Caicedo, Guzmán and Uribe",200.894.346-8,Comercio,Victoria Marisol Muñoz,paola17@cordoba-rodriguez.co,3399893544,1
+99ce9239-ce10-4a9a-84ed-36da58236300,Muñoz LLC,3755646417,COMERCIO,Katherine Martínez,ines10@quiroga.com,+57 392-327-1937,True
+c00bb012-8b30-457b-8f06-e7121e324660,"Galindo, Osorio and Fajardo",7277434873,AGROINDUSTRIA,Óscar Forero,luisaruiz@garcia.com,3316658760,True
+017bf901-3846-4dd0-8de3-6249a2431d5d,ARROYO-SUÁREZ,702.296.044-3,AGROINDUSTRIA,Amanda Reyes González,patricia06@cordoba-ospina.co,367 922 8777,True
+265d2f39-3af0-42ef-b830-eb36aabcb43d,GAVIRIA LLC,199.663.658-0, finanzas ,Arturo Armando Gaviria Toro,luis18@ramirez.co,390 983 7801,True
+ffb14b59-61d9-4a30-a17c-d48aa48cac41,"Rubio, Díaz and Rodríguez",339.718.956-9,Logistica,Esther Saavedra,xiomara60ruiz.com,382 422 4124,No
+f5c61043-e6ac-431e-9a98-7c920b14c439,  Buitrago-Martínez  ,5200461526,LOGISTICA,Antonio Moisés Maldonado,ramirezcesar@moreno.com,+57 340-578-6170,True
+78757364-e427-4612-9f3e-8049f97dbbc0,Barrera-Caro,0489138249, agroindustria ,Daniel Sanabria Sierra,katherinerengifo@montoya.co,+57 370-079-4200,True
+2d28a1f0-d982-491a-8712-a368415d7cb0,Castro-Vargas,653.984.028-9,FINANZAS,Milena Elena González,danielmolano@rojas-mora.co,+57 354-743-5537,True
+0f88a47e-abf9-45e9-b2f4-60b2f002bf72,"Valencia, Caro and Hernández",097.002.687-6,Logistica,Helena Camila García,galindovictor@sandoval-romero.co,3956201753,False
+9de02778-5786-40e7-ad40-2b49315ca2d3,RODRÍGUEZ-VILLAMIZAR,4531943375,Agroindustria,Isabel Rentería,mariabustamante@medina.co,328 399 9219,False
+8754cf32-b2a7-4eef-b93c-3faf80d1c892,Cano and Sons,4938430894,EDUCACION,José Alejandro Sandoval Bernal,karol64@duarte.co,3580304687,False
+79b73250-48eb-4872-b0c3-d8b2804c3445,Rodríguez-Ramírez,1903613325, construccion ,Andrés Pineda,ramosmario@bautista.net,+57 317-350-5831,False
+251da187-de9c-4009-b357-0711aa7ae33d,"Beltrán, Cabrera and Pineda",6690551076,Agroindustria,Andrés Ricardo Mejía López,velasquezelizabeth@castillo-garzon.co,+57 339-907-6769,False
+a9884efc-cb8e-44ab-8c9e-06b8e888ca76,"López, Bernal and Gil",0785931109,Agroindustria,Elizabeth Marisol Rentería,fernandomunoz@ramos-beltran.com,3320024968,False
+c5de3d6b-3351-4c03-ac9c-fef2b12d8fef,"Gallego, Álvarez and Rivas",2274954508,Tecnologia,María Palacios Palacio,salazarelena@bedoya.com,353 779 5995,False
+c911f74d-dc1b-4cb4-a64c-2c67a19a2afd,"Suárez, Valencia and López",073.033.793-3,LOGISTICA,Arturo Jeisson Quintero Mena,yennyluna@morales.co,308 124 7395,SI
+48a84b9f-505b-481a-8995-ae512770e54c,Bastidas and Sons,3423425832, construccion ,María Piedad Vallejo Rodríguez,lizethmesa@quintero.org,+57 373-552-8961,True
+16ed6c8d-ccd9-4c60-b17d-a8062b3214d6,Sánchez and Sons,338.655.963-0, tecnologia ,,omar89@rojas-garcia.co,+57 391-286-8578,True
+13d83a13-a868-44d7-b36f-ec35a1d8b8d0,Díaz-Amaya,8777496903, logistica ,Lady Lorena Moreno Torres,kcampo@rubio.org,+57 381-214-7853,True
+3c4d263f-09e3-46cd-9403-66cc9efeefba,"Gómez, Molina and Quintero",7766575460, educacion ,Inés Ortiz García,jimenezjose@franco.com,311 508 3535,True
+0502f3b0-f2cd-4f28-9bc6-93f0d076514a,Suárez-Ayala,4392840445, salud ,Esneider Pinto Uribe,ortegajose@leal.net,3373898775,0
+bb4a1b33-31d6-4ddb-b017-66e501104949,Álvarez and Sons,6637780529,SALUD,Lucía Daza Sierra,ruth66@gallego.org,+57 359-090-2259,False
+24aa4c5f-3638-4582-9b50-9cbde3e4b635,"Vera, Caro and Córdoba",6636186371,TECNOLOGIA,Julián Daniel Lara,perezjavier@gomez.com.co,+57 370-231-6433,SI
+3cc69c4a-c297-45ce-9634-be51b2935960,Navarro-García,5104636815, finanzas ,Alba Acosta García,carmenrojas@figueroa-vergara.com,3994938743,False
+097b1d88-b1ab-486e-b02a-4f34559b1b05,Arroyo Group,169.385.977-7, construccion ,Aura Gutiérrez,tromero@giraldo-bravo.com,363 296 7629,True
+aaab9e13-2f77-4e7e-9ec8-4a6c2249c172,MEDINA INC,3248413768,TECNOLOGIA,Nelsy María López,amanda24@mora.com,+57 317-656-3600,True
+6373eecb-1470-481b-92ba-e350bd4a4a40,  González-Alarcón  ,5777118372,COMERCIO,Steven Marco Pérez Rodríguez,diazpaola@giraldo.net.co,342 752 3083,True
+e50730c8-679d-4781-bd31-c7f3e22ff38d,Benavides-Perea,8164709006, logistica ,Margoth Liliana Moreno López,agomez@fonseca-duarte.com,+57 331-220-6815,0
+81a72e47-0e88-49a9-9ab7-6cbf94cca550,Londoño-Díaz,386.613.315-5, agroindustria ,María Arango Rodríguez,irmamartinez@bernal-arias.com,336 497 1892,0
+919a6e6e-27e5-41cc-8673-bf946bf27599,  Bustos-Carvajal  ,625.257.150-9,EDUCACION,Eduardo Leonardo Moreno Fernández,morenodavid@alvarez.co,3391025743,True
+851765d4-20e2-440f-90c8-0a7d7540ac5f,Rivera Ltd,0397524508,Educacion,Augusto Gutiérrez Rodríguez,nubia38@fajardo.net,+57 339-685-2701,True
+7382ea3b-10c4-4de3-8623-9590739389f7,GARCÍA-RAMÍREZ,2321298338, comercio ,Fernanda Cristina Pérez,olgadiaz@suarez.co,+57 334-715-6627,SI
+1dddc93e-135c-4c54-8468-7e919b7881b0,  Salazar-León  ,627.066.149-8,Logistica,Yaneth Díaz Flórez,marlene68@ramos.net,+57 323-008-5766,False
+46c09988-1922-4a09-b42e-ca42262a473d,Manrique-Arias,749.160.169-2, agroindustria ,Nidia Ivonne Fuentes Espinosa,jose75@martinez.net,+57 337-050-2497,False
+4d3ba94f-7553-44ea-b1a4-a7549e150930,"Sánchez, Vargas and Escobar",2011669183, tecnologia ,Juan Osorio Aguirre,uorozco@gallego-salgado.com,+57 319-524-3640,False
+b90b419b-e99d-46d9-9df9-228d65995004,Ayala Inc,116.864.622-5, logistica ,Dayana Ramírez Díaz,cardonajohn@ramirez.com,3346791214,False
+c8c5164a-3db2-43e9-b689-143f0767b2f5,Rivera LLC,1509377100, finanzas ,Germán Rodríguez,lopezjose@rivera.org,+57 377-596-5555,True
+2388445f-64fb-4948-870e-8b336622852d,Ibarra Ltd,6690551076,Agroindustria,María González Contreras,aurabeltran@polo.com,+57 350-505-7397,False
+959b215c-7d7a-49d3-9c12-ea5a75cf178f,"Herrera, Jaimes and Valencia",9887749242,Educacion,David Arias,angel02@gutierrez-arteaga.com.co,+57 328-422-2231,No
+8be52920-660f-41c3-8dcf-7dfc8b4ad6a9,  Oviedo LLC  ,6434712871,AGROINDUSTRIA,Freddy Eduar Castañeda,francoleonor@villamizar.co,+57 363-341-4111,True
+46400520-98b5-4afc-89cb-501a96c680b3,Mena-Cuesta,195.256.904-0,Comercio,Estela Janneth Ruiz Morales,joseagudelo@gonzalez.co,375 243 7729,False
+30c90c98-749f-49e6-bbab-9f165677bc9b,  SÁNCHEZ-SOTO  ,0954814973,FINANZAS,Jorge Horacio Martínez Arrieta,pablorojas@betancur.com,3764208656,1
+c98b5cef-7647-4053-8ed4-442f795c2e41,"Ortega, Romero and Giraldo",184.438.612-5,COMERCIO,,khoyosmarin.org,323 330 5912,False
+dc4af722-11af-4222-9d96-d4b8554a8584,QUIROGA-OSORIO,2015720185,EDUCACION,Benjamín Pineda Parra,gonzalezrosalbapacheco-pedraza.net.co,361 764 7501,True
+ab61a532-1d3d-41f2-bcb6-d1ab5c3564ff,García Group,8309997419,COMERCIO,Liliana Anaya Narváez,carlos15@forero.com,3606888718,False
+1172581c-852e-4b60-90d6-949fb569dfd4,"Montoya, Figueroa and Arango",312.920.875-1,EDUCACION,,andreamunozgarcia.co,3458260340,False
+29ca4f2b-1e5f-4c9b-80d7-fc63c4264dbc,"RENTERÍA, JIMÉNEZ AND LOZANO",297.585.988-3, agroindustria ,Vanessa María Gómez,karenroa@agudelo.com.co,354 296 1844,False
+0c0f438d-75b3-402f-862c-de8b64fdc313,Bernal-Pérez,714.628.314-3,Logistica,Julio Augusto Molina,mireyasanchez@rivera-alfonso.net,314 181 8615,False
+827ecb6a-e3c3-4ebf-86fa-f343b22e9f7b,"López, Chávez and Castaño",2340163611,CONSTRUCCION,Lina Pardo Fernández,wlopez@cordoba.com,3025625889,True
+73a0ff56-35b1-4b9c-aa9b-0894a48e4672,Acosta-Hernández,082.226.940-5,FINANZAS,Ruth Laura Cruz Mendoza,orlando84@cantillo-guzman.nom.co,3341465111,True
+9c4fac2c-112a-410e-9e09-2855615ebba6,"Moreno, López and Córdoba",1487068277,CONSTRUCCION,Alejandra Natalia Vallejo,forerodiego@herrera.co,3909728321,1
+ba0c7611-885e-496a-a8e0-bd68f75ed581,VILLA-MOLINA,067.625.153-8, construccion ,Milena Daniela Ortiz,dazacarloscaballero.co,3079705097,False
+117bbce8-4c29-4624-b6e4-f5ca41f2e891,Jiménez-González,5265016731,COMERCIO,Adriana Barreto Rodríguez,lorena65@morales-galindo.co,3417722560,True
+da87c51e-0370-4f09-925e-12f559e53afa,LOAIZA-BLANCO,1340266502,EDUCACION,,zcaicedo@forero.co,386 211 0225,True
+10b9004a-01f1-49b1-8611-f0b4f1e5d7ce,"Rodríguez, Duque and Martínez",5690674471,Educacion,Antonio Sánchez Palacios,blancagonzalez@portilla-vargas.co,3371892392,False
+ba6bdfb1-7c25-4339-b6ff-c3aef49044e0,  González Group  ,0432609310, finanzas ,Diego Suárez Barrera,inesosorio@palacios.com,+57 341-454-5635,True
+aa5f6723-5544-437d-adcd-bc2fc0285e72,Díaz Inc,0534749162,FINANZAS,Roger Morales,martha08@valencia.co,+57 398-953-4396,False
+2d8b1107-fc95-46ea-af2e-49e8a0588fc2,Murcia and Sons,910.933.711-8,Finanzas,Jesús Felipe Ochoa,mariaramirez@amaya.co,+57 355-716-1768,True
