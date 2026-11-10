@@ -40,7 +40,7 @@ def generar_datos(numero_datos=FILAS):
 
         filas.append({
             "id": str(uuid.uuid4()),
-            "nombre": fake.sentence(nb_words=6).rstrip("."),
+            "nombre": fake.sentence(nb_words=6).rzip("."),
             "descripcion": fake.sentence(nb_words=12),
             "fecha_inicio": fecha_inicio,
             "fecha_fin": fecha_inicio + timedelta(days=random.randint(15, 180)),
