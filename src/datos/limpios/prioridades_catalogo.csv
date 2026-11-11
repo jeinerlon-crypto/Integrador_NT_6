@@ -1,0 +1,6 @@
+id,nombre,nivel,dias_max_respuesta
+f2155d0f-f81f-486f-a72a-f495e3d72d4a,Muy alta,1,1
+63d15de8-c143-4977-8633-d951503fa765,Alta,2,3
+0e870318-5ef0-4afb-84ea-78d5a8e6d082,Media,3,5
+a3507293-3161-45ae-9423-b8c20713bced,Baja,4,8
+661f9f91-180a-47e1-8455-aa879c32620a,Muy baja,5,15
