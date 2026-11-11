@@ -1,0 +1,42 @@
+[
+  {
+    "nombre":"Marketing Digital",
+    "largo_desc":58.3
+  },
+  {
+    "nombre":"Ciberseguridad",
+    "largo_desc":54.2
+  },
+  {
+    "nombre":"Infraestructura Y Nube",
+    "largo_desc":54.0
+  },
+  {
+    "nombre":"Desarrollo Web",
+    "largo_desc":52.6
+  },
+  {
+    "nombre":"Ciencia De Datos",
+    "largo_desc":52.5
+  },
+  {
+    "nombre":"Soporte Tecnico",
+    "largo_desc":50.8
+  },
+  {
+    "nombre":"Inteligencia Artificial",
+    "largo_desc":49.3
+  },
+  {
+    "nombre":"Gestion Administrativa",
+    "largo_desc":47.1
+  },
+  {
+    "nombre":"Desarrollo Movil",
+    "largo_desc":46.8
+  },
+  {
+    "nombre":"Diseno Ux\/Ui",
+    "largo_desc":43.6
+  }
+]
